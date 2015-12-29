@@ -56,7 +56,64 @@
 %\bibliography{/Users/iNge/Dropbox/Biblio/ingesbibneu}
 \bibliography{/Users/iNge/Dropbox/Biblio/library}
 %\bibliography{library}
+
+
+
+
 \begin{document}
+  \begin{titlepage}
+  \thispagestyle{empty}
+  \begin{center}
+  \color{blue}\Large{Fernuniversität Hagen}\\
+  \end{center}
+
+
+  \begin{center}
+  \Large{Bildung und Medien: eEducation}
+  \end{center}
+  \begin{verbatim}
+
+
+
+  \end{verbatim}
+  \begin{center}
+  \textbf{\Large{Kommentierte Bibliographie zum Thema Online-Lernen}}
+  \end{center}
+  \begin{verbatim}
+
+  \end{verbatim}
+  \begin{center}
+  \textbf{im Studiengang Wirtschaftsinformatik}
+  \end{center}
+  \begin{verbatim}
+
+
+
+
+
+
+
+  \end{verbatim}
+
+  \begin{flushleft}
+  \begin{tabular}{lll}
+  \textbf{Studiengang:} & & MA Bildung und Medien: eEducation\\
+  & & Modul 2: Anwendungsbezogene Bildungsforschung\\
+  & & \\
+  & & \\
+  \textbf{eingereicht von:} & & {\color{magenta} Inge Koch-Meinass \flq{}ingekoch@mac.com\frq{}}\\
+  & & {\color{magenta}Matrikelnr.: 9650962 }\\
+  & & \\
+  \textbf{eingereicht am:} & & 06. November 2015\\
+  & & \\
+  & & \\
+  %\textbf{Betreuer:} & & Herr Prof. Dr. J. A. Müller
+  \end{tabular}
+  \end{flushleft}
+
+  \end{titlepage}
+
+
 %\input{titelneu.tex}
 %\listoftodos
 \tableofcontents
@@ -64,8 +121,8 @@
 \setcounter{page}{1}
 %\thispagestyle{empty}
 \pagebreak
-ich schreibe etzt mal was schönes
-%$body$
+
+$body$
 
 \pagebreak
 \printbibliography
