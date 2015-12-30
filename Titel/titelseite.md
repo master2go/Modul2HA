@@ -21,10 +21,9 @@
 
 \end{verbatim}
 \begin{center}
-\textbf{im Studiengang Wirtschaftsinformatik}
+\textbf{Fakultät Kulturwissenschaften}
 \end{center}
 \begin{verbatim}
-
 
 
 
@@ -44,7 +43,7 @@
 & & \\
 & & \\
 \textbf{eingereicht von:} & & {\color{magenta} Inge Koch-Meinass \flq{}ingekoch@mac.com\frq{}}\\
-& & {\color{magenta}Matrikelnr.: 9650962 }\\
+& & {\color{magenta}Matrikelnr.: 123456 }\\
 & & \\
 \textbf{eingereicht am:} & & 06. November 2015\\
 & & \\
