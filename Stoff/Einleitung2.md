@@ -1,6 +1,7 @@
 # Einleitung
+Der beruflichen Weiterbildung kommt eine immer größere Bedeutung zu, die Notwendigkeit zum lebenslangen Lernen ist in vielen Berufssparten da. Das immer größere Lernpensum, kann nicht ausschließlich in Präsenzveranstaltung gelehrt werden, sondern viel mehr gilt es von Zeit und Ort unabhängige Lernmöglichkeiten zu schaffen. Digitale Lernplattfórmen leisten hier einen wichtigen Beitrag und können je nach didaktischer Aufbereitung, selbstorganisiertes, konstruktuvistisches und damit nachhaltiges Lernen fördern. 
 
-Der beruflichen Weiterbildung kommt eine immer größere Bedeutung zu. Der Trend zum lebenslangen Lernen 
+Die vorliegende Arbeit befasst sich mit der Evaluation einer beruflichen Weiterbildung, die als Blended Learning Kurs für FrühpädagogInnen\footcite{Der Begriffe FrühpädagogInnen, schließt alle im Kitabereich tätigen Fachkräfte ein} konzipiert wurde. Inhalt der Weiterbildung ist das kennenlernen und umsetzen können des Early-Excellence Konzept, ein Ansatz mit dem Bildungs- und Orientierungspläne der Bundesländer umgesetzt werden können. Mit Hilfe eines standardisierten Fragebogens wird versucht den durch die Weiterbildung gewonnen Zuwachs an Kompetenz zu bestimmen. Es wird einmal das Weiterbildungsangebot insgesamt und zum anderen der Einfluss der digitalen Lernplattform betrachtet. 
 
-Wie wird evaluation definiert? Bei  @askun2007web wird es wie folgt beschrieben: Jetzt teste ich mal @blau2012personality editorial
-Wie bin ich da hingeommen?
+# Theorierahmen
+Der der Untersuchung zugrundeliegende Theorierahmen setzt sich mit Erwachsenenbildung \unsure{berufliche Weiterbildung} im Blended Learning Verfahren auseinander.
