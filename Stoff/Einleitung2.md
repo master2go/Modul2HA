@@ -11,3 +11,4 @@ Besonders in der Erwachsenenbildung geht es nicht vorrangig darum abrufbares Wis
 * Erwachsenendidaktik
 * Blended Learning
 * Handlungskompetenz
+vielleicht ist es so noch an besten Föhlich und gut ßöüt
