@@ -1,0 +1,21 @@
+=== APA-6 Style ===
+
+==== Literaturverzeichns ====
+
+Alle Texte des Studiengangs werden nach den Richtlinien von APA-6 geschrieben. Es folgen nun links, wo für jede Publikation beschrieben wird, wie sie richtig zitiert wird. * [http://www.scm.nomos.de/fileadmin/scm/doc/APA-6.pdf Wie zitert man was]
+
+* [http://www.uibk.ac.at/psychologie/mitarbeiter/kratzer/docs/die-wichtigsten-quellenangaben-nach-dgps-u-apa.pdf Nochmal apa]
+
+==== Zitieren im Text ====
+
+==== Umsetzen mit Mendeley ====
+
+* [http://blog.mendeley.com/progress-update/mendeley-desktop-1-10/ Journals]
+
+==== Fragen: ====
+
+* Werden die Zeitschriftenartikel abgekürzt?
+* Muss bei vielen Autoren vor dem ambersand ein Punkt gesetzt werden?
+
+(PS.: von markdown zu mediawiki pandoc -f markdown -t mediawiki -o dateiname.txt; dann mit copy &amp; paste hier rein)
+
