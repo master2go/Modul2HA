@@ -9,19 +9,21 @@
 %%Kopfzeile
 \usepackage{txfonts} %für times new roman
 %\usepackage{helvet} %für arial, dann aber 11pt
-\usepackage[a4paper, left=2.5cm, right=5cm]{geometry}
+\usepackage[a4paper, left=2cm, right=2.5cm]{geometry}
 \usepackage[onehalfspacing]{setspace}
+%\usepackage{apacite}
 \usepackage{wasysym}
 \usepackage{rotating}
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{float}
 %\usepackage{caption}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 %\usepackage{todonotes}
 \usepackage{enumitem}
 %\uespackage{caption}
-\usepackage[bf]{caption}
+%\usepackage[bf]{caption}
 %\renewcommand{\captionfont}{\small\slshape}
 %\renewcommand{\figurename}{Abb.}
 %\renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
@@ -41,12 +43,23 @@
 \usepackage{graphicx}
 %\usepackage[german]{babel}
 \usepackage{typearea}
-%\usepackage[style=apa]{biblatex}
+%für Randbemerkungen, sehr nützlich:
+\usepackage{xargs}                      % Use more than one optional parameter in a new commands
+\usepackage[pdftex,dvipsnames]{xcolor}
+\usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes}
+\newcommandx{\unsure}[2][1=]{\todo[linecolor=red,backgroundcolor=red!25,bordercolor=red,#1]{#2}}
+\newcommandx{\change}[2][1=]{\todo[linecolor=blue,backgroundcolor=blue!25,bordercolor=blue,#1]{#2}}
+\newcommandx{\info}[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=OliveGreen!25,bordercolor=OliveGreen,#1]{#2}}
+\newcommandx{\improvement}[2][1=]{\todo[linecolor=Plum,backgroundcolor=Plum!25,bordercolor=Plum,#1]{#2}}
+\newcommandx{\thiswillnotshow}[2][1=]{\todo[disable,#1]{#2}}
+% erklaerung siehe hier http://tex.stackexchange.com/questions/9796/how-to-add-todo-notes
+
+%hat prima funktioniert:
 \usepackage[style=apa,backend=biber]{biblatex}
 \usepackage[american,ngerman]{babel}
 \DeclareLanguageMapping{ngerman}{ngerman-apa}
 \usepackage[babel,german=guillemets]{csquotes}
-
+%\bibliographystyle{apacite}
 %nach part fängt section wieder mit eins an alte Gestaltung
 %\makeatletter
 %\@addtoreset{section}{part}
@@ -61,6 +74,7 @@
 
 
 \begin{document}
+\renewcommand\finalandcomma{\addcomma}
 
 \begin{titlepage}
 \thispagestyle{empty}
@@ -117,10 +131,10 @@
 
 % das ist wohl jetzt das Ende des Dokumentes
 \end{titlepage}
-  
+
 
 %\input{titelneu.tex}
-%\listoftodos
+\listoftodos{Gesammelte Unklarheiten}
 \tableofcontents
 %\listoftables
 \setcounter{page}{1}
@@ -130,18 +144,133 @@
 \section{Evaluation}\label{evaluation}
 
 Wie wird evaluation definiert? Bei \textcite{askun2007web} wird es wie
-folgt beschrieben:
+folgt beschrieben: Jetzt teste ich mal \textcite{blau2012personality}
+editorial Wie bin ich da hingeommen?
 
-\section{Beschreibung es
-Lernsettings}\label{beschreibung-es-lernsettings}
+\section{Einführung und Kontext}\label{einfuxfchrung-und-kontext}
+
+\section{Theorierahmen}\label{theorierahmen}
+
+\subsection{Begriffliche Definitionen oder aktueller
+Forschungsstand}\label{begriffliche-definitionen-oder-aktueller-forschungsstand}
+
+Blended Learning, Erwachsenenbildung
+
+\subsection{Beschreibung der zu untersuchenden
+Kompetenzen}\label{beschreibung-der-zu-untersuchenden-kompetenzen}
+
+Hier dann alles zum Thema Operationalisierung
+
+\subsection{Inhalte der Weiterbildung}\label{inhalte-der-weiterbildung}
+
+\subsection{Aufbau der Lernplattform}\label{aufbau-der-lernplattform}
+
+\section{Methoden}\label{methoden}
+
+\subsection{Forschungsfrage und
+Hypothesen}\label{forschungsfrage-und-hypothesen}
+
+\subsection{Studiendesign}\label{studiendesign}
+
+\begin{itemize}
+\tightlist
+\item
+  Ziel der Evaluation
+\item
+  formativ
+\item
+  natürliche Gruppe
+\item
+  deskriptive Auswertung univariat
+\item
+  Darstellung der Ergebnisse anhand von Häufigkeiten
+\item
+  MW, Median, Modal, Streuung
+\item
+  schriftliche Befragung, vollstandardisiert, alle Teilnehmer,
+  Selbseinschätzung
+\end{itemize}
+
+\subsection{Messinstrument}\label{messinstrument}
+
+\subsection{Messinstrument}\label{messinstrument-1}
+
+\subsection{Pretest des Fragebogens}\label{pretest-des-fragebogens}
+
+Nach Entwurf des Fragebogens wurde dieser einem Pretest unterzogen. Es
+gab 8 Teilnehmer, die durchschnittlcihe Verweildauer betrug ca. 5
+Minuten. Die Reliabilität wurde mittels Cronbachs alpha ermittelt
+(\textcite{Wassa}) Er ergab für die einzelnen Kompetenzen Werte zwischen
+0.72 und 0.98.
+
+\begin{table}[]
+\centering
+\caption{My caption}
+\label{my-label}
+\begin{tabular}{@{}lll@{}}
+\toprule
+Kompetenz               & Cronbachs alpha & Items               \\ \midrule
+Fachkompetenz           & 0.84            & FK1,FK2,FK3,FK4,FK5 \\
+Methodenkompetenz       & 0.73            & MK1,MK2,MK3,MK4     \\
+Personalkompetenz       & 0.91            & PK1,PK2,PK3,PK4,PK5 \\
+Kommunikationskompetenz & 0.93            & KK1,KK2,KK3,K4      \\ \bottomrule
+\end{tabular}
+\end{table}
+
+Value of Cronbach's Alpha for the Questionnaire (Reliability Test)
+calculated using online calculator \textcite{Wassa} . The questionnaire
+was tested for its reliability and validity using Cronbach Alfa. The
+test results are shown in the following table 4.8.1.
+
+\% Please add the following required packages to your document preamble:
+\% \usepackage{booktabs}
+
+\% Please add the following required packages to your document preamble:
+\% \usepackage{booktabs} \% \usepackage{graphicx}
+
+\begin{table}[]
+\centering
+\caption{Zuordnung der Items}
+\label{itemtabelle}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}lllll@{}}
+\toprule
+Item  & Konstrukt                                                                    & Indikator                                                                                                                                                                           & Ausprägung                                                                                                                                                                                       & Skalenniveau \\ \midrule
+1-5   & \begin{tabular}[c]{@{}l@{}}Fach-\\ kompetenz\end{tabular}                    & \begin{tabular}[c]{@{}l@{}}Disposition sachlich-gegenständliche\\ Probleme selbstorganisiert lösen zu können\end{tabular}                                                           & \begin{tabular}[c]{@{}l@{}}5-stufige Likertskala:\\ 1= trifft überhaupt nicht zu\\ 2= trifft wenig zu\\ 3=trifft teils/teils zu\\ 4=trifft überwiegend zu\\ 5=trifft völlig zu\end{tabular}      & metrisch     \\
+\midrule
+6-10  & \begin{tabular}[c]{@{}l@{}}Methoden-\\ kompetenz\end{tabular}                & \begin{tabular}[c]{@{}l@{}}Tätigkeiten und Aufgaben methodisch\\  selbst-organisiert zu gestalten und Methoden\\  weiter zu entwickeln\end{tabular}                                 & \begin{tabular}[c]{@{}l@{}}5-stufige Likertskala: \\ 1= trifft überhaupt nicht zu\\ 2= trifft wenig zu \\ 3=trifft teils/teils zu \\ 4=trifft überwiegend zu \\ 5=trifft völlig zu\end{tabular}  & metrisch     \\
+\midrule
+11-16 & \begin{tabular}[c]{@{}l@{}}Personal-\\ kompetenz\end{tabular}                & \begin{tabular}[c]{@{}l@{}}Sich einschätzen, selbstorganisiert reflexiv\\  handeln,Werte, Motive und Selbstbilder\\  entwickeln\end{tabular}                                        & \begin{tabular}[c]{@{}l@{}}5-stufige Likertskala: \\ 1= trifft überhaupt nicht zu \\ 2= trifft wenig zu \\ 3=trifft teils/teils zu \\ 4=trifft überwiegend zu \\ 5=trifft völlig zu\end{tabular} & metrisch     \\
+\midrule
+17-21 & \begin{tabular}[c]{@{}l@{}}Komunikations-\\ kompetenz\end{tabular}           & \begin{tabular}[c]{@{}l@{}}Sich mit anderen kreativ auseinander setzen, \\ kommunikativ und selbstorganisiert handeln\\ \parencite[8]{ErpenbeckRosenstiel200305}\end{tabular} & \begin{tabular}[c]{@{}l@{}}5-stufige Likertskala\\ 1= trifft nicht zu,\\ 5=trifft vollständig zu\end{tabular}                                                                                    & metrisch     \\
+ \midrule
+22-28 & \begin{tabular}[c]{@{}l@{}}Nutzungs\\ verhalten\\ Lernplattform\end{tabular} & \begin{tabular}[c]{@{}l@{}}Aufschluss über die Intensität und Richtung der\\ Nutzung der Lernplattform\end{tabular}                                                                 & \begin{tabular}[c]{@{}l@{}}5-stufige Skala\\ 1=0-1mal genutzt\\ 2=2-4 mal genutzt\\ 3=5-7 mal genutzt\\ 4=8-10 mal genutzt\\ 5=\textgreater10 mal genutz\end{tabular}                            & metrisch     \\ \bottomrule
+\end{tabular}%
+}
+\end{table}
+
+\section{Beschreibung des
+Lernsettings}\label{beschreibung-des-lernsettings}
 
 Es wird im folgenden das eLearning Angebot einer betrieblichen
-Weiterbildung evaluiert \autocite{Helmke2008}. Diese Umgebung findet
-auch bei \textcite{ChenCouse200917} Anwendung.
+Weiterbildung evaluiert \autocite{Helmke2008a}. Diese Umgebung findet
+auch bei \textcite{ChenCouse200917} Anwendung. Immer noch zitieren
+\autocite[vgl.][pp.~11-15]{Sussman2010} \autocite{Wright2013}
+\textcite[30-38]{Goldstandard} \autocite[72]{Kromrey2009}
 
 \pagebreak
 \printbibliography
 \pagebreak
+\appendix
+
+
+  \section{Anhang}
+  %\subsection{Abkürzungen}
+  %\renewcommand{\thetable}{{A}.\arabic{table}}
+  %\renewcommand{\thetable}{\Alph{section}.\arabic{table}}
+  \input{Anhang/Itemzuordnung}
+
+
 %\input{tabelleanalysen}
 %\includepdf{alleine.pdf}
 \end{document}

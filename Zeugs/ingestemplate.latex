@@ -9,19 +9,21 @@
 %%Kopfzeile
 \usepackage{txfonts} %für times new roman
 %\usepackage{helvet} %für arial, dann aber 11pt
-\usepackage[a4paper, left=2.5cm, right=5cm]{geometry}
+\usepackage[a4paper, left=2cm, right=2.5cm]{geometry}
 \usepackage[onehalfspacing]{setspace}
+%\usepackage{apacite}
 \usepackage{wasysym}
 \usepackage{rotating}
 \usepackage{amsmath}
 \usepackage{amssymb}
+\usepackage{float}
 %\usepackage{caption}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 %\usepackage{todonotes}
 \usepackage{enumitem}
 %\uespackage{caption}
-\usepackage[bf]{caption}
+%\usepackage[bf]{caption}
 %\renewcommand{\captionfont}{\small\slshape}
 %\renewcommand{\figurename}{Abb.}
 %\renewcommand{\thefigure}{\arabic{section}.\arabic{figure}}
@@ -41,12 +43,23 @@
 \usepackage{graphicx}
 %\usepackage[german]{babel}
 \usepackage{typearea}
-%\usepackage[style=apa]{biblatex}
+%für Randbemerkungen, sehr nützlich:
+\usepackage{xargs}                      % Use more than one optional parameter in a new commands
+\usepackage[pdftex,dvipsnames]{xcolor}
+\usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes}
+\newcommandx{\unsure}[2][1=]{\todo[linecolor=red,backgroundcolor=red!25,bordercolor=red,#1]{#2}}
+\newcommandx{\change}[2][1=]{\todo[linecolor=blue,backgroundcolor=blue!25,bordercolor=blue,#1]{#2}}
+\newcommandx{\info}[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=OliveGreen!25,bordercolor=OliveGreen,#1]{#2}}
+\newcommandx{\improvement}[2][1=]{\todo[linecolor=Plum,backgroundcolor=Plum!25,bordercolor=Plum,#1]{#2}}
+\newcommandx{\thiswillnotshow}[2][1=]{\todo[disable,#1]{#2}}
+% erklaerung siehe hier http://tex.stackexchange.com/questions/9796/how-to-add-todo-notes
+
+%hat prima funktioniert:
 \usepackage[style=apa,backend=biber]{biblatex}
 \usepackage[american,ngerman]{babel}
 \DeclareLanguageMapping{ngerman}{ngerman-apa}
 \usepackage[babel,german=guillemets]{csquotes}
-
+%\bibliographystyle{apacite}
 %nach part fängt section wieder mit eins an alte Gestaltung
 %\makeatletter
 %\@addtoreset{section}{part}
@@ -65,10 +78,10 @@
 $for(include-before)$
 $include-before$
 $endfor$
-  
+
 
 %\input{titelneu.tex}
-%\listoftodos
+\listoftodos{Gesammelte Unklarheiten}
 \tableofcontents
 %\listoftables
 \setcounter{page}{1}
@@ -80,6 +93,16 @@ $body$
 \pagebreak
 \printbibliography
 \pagebreak
+\appendix
+
+
+  \section{Anhang}
+  %\subsection{Abkürzungen}
+  %\renewcommand{\thetable}{{A}.\arabic{table}}
+  %\renewcommand{\thetable}{\Alph{section}.\arabic{table}}
+  \input{Anhang/Itemzuordnung}
+
+
 %\input{tabelleanalysen}
 %\includepdf{alleine.pdf}
 \end{document}

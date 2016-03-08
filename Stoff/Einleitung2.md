@@ -1,13 +1,13 @@
 # Einleitung
-Der beruflichen Weiterbildung kommt eine immer größere Bedeutung zu, die Notwendigkeit zum lebenslangen Lernen ist in vielen Berufssparten da. Das immer größere Lernpensum, kann nicht ausschließlich in Präsenzveranstaltung gelehrt werden, sondern viel mehr gilt es von Zeit und Ort unabhängige Lernmöglichkeiten zu schaffen. Digitale Lernplattfórmen leisten hier einen wichtigen Beitrag und können je nach didaktischer Aufbereitung, selbstorganisiertes, konstruktuvistisches und damit nachhaltiges Lernen fördern. 
+Der beruflichen Weiterbildung kommt eine immer grÃ¶ÃŸeere Bedeutung zu, die Notwendigkeit zum lebenslangen Lernen ist in vielen Berufssparten da. Das immer grÃ¶ÃŸere Lernpensum, kann nicht ausschlieÃŸlich in PrÃ¤senzveranstaltung gelehrt werden, sondern viel mehr gilt es von Zeit und Ort unabhÃ¤ngige LernmÃ¶glichkeiten zu schaffen. Digitale Lernplattformen leisten hier einen wichtigen Beitrag und kÃ¶nnen je nach didaktischer Aufbereitung, selbstorganisiertes, konstruktuvistisches und damit nachhaltiges Lernen fÃ¶rdern.
 
-Die vorliegende Arbeit befasst sich mit der Evaluation einer beruflichen Weiterbildung, die als Blended Learning Kurs für FrühpädagogInnen\footcite{Der Begriffe FrühpädagogInnen, schließt alle im Kitabereich tätigen Fachkräfte ein} konzipiert wurde. Inhalt der Weiterbildung ist das kennenlernen und umsetzen können des Early-Excellence Konzept, ein Ansatz mit dem Bildungs- und Orientierungspläne der Bundesländer umgesetzt werden können. Mit Hilfe eines standardisierten Fragebogens wird versucht den durch die Weiterbildung gewonnen Zuwachs an Kompetenz zu bestimmen. Es wird einmal das Weiterbildungsangebot insgesamt und zum anderen der Einfluss der digitalen Lernplattform betrachtet. 
+Die vorliegende Arbeit befasst sich mit der Evaluation einer beruflichen Weiterbildung, die als Blended Learning Kurs fÃ¼r FrÃ¼hpÃ¤dagogInnen\footcite{Der Begriffe FrÃ¼hpÃ¤dagogInnen, schlieÃŸt alle im Kitabereich tÃ¤tigen FachkrÃ¤fte ein} konzipiert wurde. Inhalt der Weiterbildung ist das kennenlernen und umsetzen kÃ¶nnen des Early-Excellence Konzept, ein Ansatz mit dem Bildungs- und OrientierungsplÃ¤ne der BundeslÃ¤nder umgesetzt werden kÃ¶nnen. Mit Hilfe eines standardisierten Fragebogens wird versucht den durch die Weiterbildung gewonnen Zuwachs an Kompetenz zu bestimmen. Es wird einmal das Weiterbildungsangebot insgesamt und zum anderen der Einfluss der digitalen Lernplattform betrachtet.
 
 # Theorierahmen
-Der der Untersuchung zugrundeliegende Theorierahmen umfasst die Förderung von Handlungskompetenz  Thema Erwachsenenbildung \unsure{berufliche Weiterbildung} und Blended Learning Verfahren auseinander.
-Die Handlungskompetenz kann nach Erpenbeck definiert werden als: \info{aus dem dicken Buch was schönes zitieren}
-Besonders in der Erwachsenenbildung geht es nicht vorrangig darum abrufbares Wissen zu vermehren, sondern vielmehr liegt der Schwerpunkt darauf, durch das neue Wissen handlungsfähig zu werden.
-\improvement{diese drei Punkt mit Text und Leben füllen und tapfer bleiben}
+Der der Untersuchung zugrundeliegende Theorierahmen umfasst die FÃ¶rderung von Handlungskompetenz  Thema Erwachsenenbildung \unsure{berufliche Weiterbildung} und Blended Learning Verfahren auseinander.
+Die Handlungskompetenz kann nach Erpenbeck definiert werden als: \info{aus dem dicken Buch was schÃ¶nes zitieren}
+Besonders in der Erwachsenenbildung geht es nicht vorrangig darum abrufbares Wissen zu vermehren, sondern vielmehr liegt der Schwerpunkt darauf, durch das neue Wissen handlungsfÃ¤hig zu werden.
+\improvement{diese drei Punkt mit Text und Leben fÃ¼llen und tapfer bleiben}
 * Erwachsenendidaktik
 * Blended Learning
 * Handlungskompetenz
