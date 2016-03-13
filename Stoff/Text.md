@@ -92,31 +92,29 @@ Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieb
 
 ## Fachkompetenz
 
-\begin{table}[ht]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der Itemwerte Fachkompetenz}
 \begin{tabular}{rr}
   \hline
  Item & Mittelwert \\
   \hline
-ik.FK01\_01 & 4.00 \\
-  ik.FK01\_02r & 4.58 \\
-  ik.FK01\_03 & 4.17 \\
-  ik.FK01\_04 & 3.83 \\
-  ik.FK01\_05 & 4.00 \\
+FK01\_01 & 4.00 \\
+  FK01\_02r & 4.58 \\
+  FK01\_03 & 4.17 \\
+  FK01\_04 & 3.83 \\
+  FK01\_05 & 4.00 \\
   FKMW & 4.12 \\
   FKSUMMW & 20.58 \\
    \hline
 \end{tabular}
 \end{table}
-Die Summenwerte der Fachkompetenz betragen mindestens 5 und höchstens 25. Die Häufigkeitstabelle zeigt, dass 40% der Teilnehmer der selbseingeschätzte Zuwachs an Fachkompetenz bei 21 liegt. Der niedrigstes Wert 14 kam ebenso wie der höchste Wert 25 je einmal vor.
+Die Summenwerte der Fachkompetenz betragen mindestens 5 und höchstens 25. Die Häufigkeitstabelle zeigt, dass 40% der Teilnehmer der selbseingeschätzte Zuwachs an Fachkompetenz bei 21 liegt. Der niedrigstes Wert 14 kam ebenso wie der höchste Wert 25 je einmal vor. Insgesamt liegt der Summenmittelwert bei etwa 4 und der Summenmittelwert bei etwa 21
 
 ## Methodenkompetenz
 
 
-
-
-\begin{table}[ht]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der Itemwerte Methodenkompetenz}
 \begin{tabular}{rr}
@@ -132,10 +130,11 @@ MK01\_01 & 3.50 \\
    \hline
 \end{tabular}
 \end{table}
+
 ## Personalkompetenz
 
 
-\begin{table}[ht]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der Itemwerte Personalkompetenz}
 \begin{tabular}{rr}
@@ -155,7 +154,7 @@ PK01\_01 & 3.42 \\
 
 ## Kommunikationskompetenz
 
-\begin{table}[ht]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der Itemmittelwerte Kommunikationskompetenz}
 \begin{tabular}{rr}
@@ -174,7 +173,7 @@ KK01\_01 & 3.00 \\
 
 ## Nutzungsverhalten
 
-\begin{table}[ht]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der Itemmittelwerte Nutzungsverhalten}
 \begin{tabular}{rr}
@@ -194,3 +193,24 @@ NV02\_01 & 2.42 \\
    \hline
    \end{tabular}
    \end{table}
+
+## Handlungskompetenz
+
+\begin{table}[H]
+\centering
+\begin{tabular}{rr}
+  \hline
+ Parameter & Mittelwerte\\
+  \hline
+Gesamtscore.Kompetenzen & 65.58 \\
+  Mittelwert.Kompetenzen & 3.60 \\
+  Gesamtscore.Nutzungsverhalten & 16.42 \\
+  Mittelwert.Nutzungsverhalten & 2.05 \\
+  Gesamtscore.passive.Nutzung & 10.17 \\
+  Mittelwert.passive.Nutzung & 2.54 \\
+  Gesamtscore.aktive.Nutzung & 6.25 \\
+  Mittelwert.aktive.Nutzung & 1.56 \\
+   \hline
+\end{tabular}
+\end{table}
+\pagebreak
