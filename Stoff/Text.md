@@ -8,7 +8,7 @@ Der der Untersuchung zugrundeliegende Theorierahmen umfasst die Förderung von H
 
 ## Erwachsenendidaktik
 Da die Weiterbildung sich an (ältere) Erwachsene richtet und sehr prozesshaft aufgebaut, wird hier das Lernen von Erwachsenen anhand des "Transformational Learning" erklärt.
-Jack Mazirow gilt als bedeutenster Verteter und Begründer dieser Theorie. Diese Theoerie geht davon aus, dass Erwachsene 
+Jack Mazirow gilt als bedeutenster Verteter und Begründer dieser Theorie. Diese Theoerie geht davon aus, dass Erwachsene
 
 ## Blended Learning
 
@@ -86,4 +86,111 @@ Die Effizienz dieses Lernansatzes wird mittels der Veränderung der Handlungskom
 ## Pretest des Fragebogens
 Nach Entwurf des Fragebogens wurde dieser einem Pretest unterzogen. Es gab 8 Teilnehmer, die durchschnittlcihe Verweildauer betrug ca. 5 Minuten.
 Die Reliabilität wurde mittels Cronbachs alpha ermittelt (@Wassa)
-Er ergab für die einzelnen Kompetenzen Werte zwischen 0.72 und 0.98.
+Er ergab für die einzelnen Kompetenzen Werte zwischen 0.72 und 0.98., was als gut bis sehr gut anzusehen ist.
+#Ergebnisse
+Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben.
+
+## Fachkompetenz
+
+\begin{table}[ht]
+\centering
+\caption{Zusammenfassung der Itemwerte Fachkompetenz}
+\begin{tabular}{rr}
+  \hline
+ Item & Mittelwert \\
+  \hline
+ik.FK01\_01 & 4.00 \\
+  ik.FK01\_02r & 4.58 \\
+  ik.FK01\_03 & 4.17 \\
+  ik.FK01\_04 & 3.83 \\
+  ik.FK01\_05 & 4.00 \\
+  FKMW & 4.12 \\
+  FKSUMMW & 20.58 \\
+   \hline
+\end{tabular}
+\end{table}
+Die Summenwerte der Fachkompetenz betragen mindestens 5 und höchstens 25. Die Häufigkeitstabelle zeigt, dass 40% der Teilnehmer der selbseingeschätzte Zuwachs an Fachkompetenz bei 21 liegt. Der niedrigstes Wert 14 kam ebenso wie der höchste Wert 25 je einmal vor.
+
+## Methodenkompetenz
+
+
+
+
+\begin{table}[ht]
+\centering
+\caption{Zusammenfassung der Itemwerte Methodenkompetenz}
+\begin{tabular}{rr}
+  \hline
+ Item & Mittelwert \\
+  \hline
+MK01\_01 & 3.50 \\
+  MK01\_02 & 3.00 \\
+  MK01\_03r & 3.92 \\
+  MK01\_04 & 2.42 \\
+  MKMW & 3.21 \\
+  MKSUMMW & 12.83 \\
+   \hline
+\end{tabular}
+\end{table}
+## Personalkompetenz
+
+
+\begin{table}[ht]
+\centering
+\caption{Zusammenfassung der Itemwerte Personalkompetenz}
+\begin{tabular}{rr}
+  \hline
+ Item & Mittelwert\\
+  \hline
+PK01\_01 & 3.42 \\
+  PK01\_02 & 4.00 \\
+  PK01\_03r & 4.42 \\
+  PK01\_04 & 4.17 \\
+  PK01\_05 & 3.17 \\
+  PKMW & 3.83 \\
+  PKSUMMW & 19.17 \\
+   \hline
+\end{tabular}
+\end{table}
+
+## Kommunikationskompetenz
+
+\begin{table}[ht]
+\centering
+\caption{Zusammenfassung der Itemmittelwerte Kommunikationskompetenz}
+\begin{tabular}{rr}
+  \hline
+ Item & Mittelwerte \\
+  \hline
+KK01\_01 & 3.00 \\
+  KK01\_02 & 2.58 \\
+  KK01\_03 & 3.00 \\
+  KK01\_04r & 4.42 \\
+  KKMW & 3.25 \\
+  KKSUMMW & 13.00 \\
+   \hline
+\end{tabular}
+\end{table}
+
+## Nutzungsverhalten
+
+\begin{table}[ht]
+\centering
+\caption{Zusammenfassung der Itemmittelwerte Nutzungsverhalten}
+\begin{tabular}{rr}
+  \hline
+ Item & Mittelwerte\\
+  \hline
+NV02\_01 & 2.42 \\
+  NV02\_02 & 3.50 \\
+  NV02\_03 & 2.08 \\
+  NV02\_04 & 1.08 \\
+  NV02\_05 & 1.08 \\
+  NV02\_06 & 2.42 \\
+  NV02\_07 & 2.50 \\
+  NV02\_08 & 1.33 \\
+  NVMW & 2.05 \\
+  NVSUM & 16.42 \\
+   \hline
+   \end{tabular}
+   \end{table}
