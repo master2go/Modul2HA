@@ -13,6 +13,7 @@
 \usepackage[onehalfspacing]{setspace}
 %\usepackage{apacite}
 \usepackage{wasysym}
+\usepackage{mbenotes}
 \usepackage{rotating}
 \usepackage{amsmath}
 \usepackage{amssymb}
