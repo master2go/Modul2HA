@@ -62,3 +62,35 @@ MW & 2.42 & 3.50 & 2.08 & 1.08 & 1.08 & 2.42 & 2.50 & 1.33 & 2.05 & 16.42 \\
    \hline
 \end{tabular}
 \end{table}
+
+
+## Begriffliche Definitionen oder aktueller Forschungsstand
+
+Blended Learning, Erwachsenenbildung
+
+## Beschreibung der zu untersuchenden Kompetenzen oder Meßgröße
+"Die gegenwärtige Begriffsdefinition verweist da- bei vermehrt auf differente Lehr- und Lernarrangements, denen keine fundierten empi- rische Studien zugrunde liegen, die mediale und traditionelle Lernmodelle untersuchen, umso zu einer allgemeingültigen Definition von Blended Learning beizutragen. Dies liegt mitunter daran, dass die Transparenz der Grenzen zwischen Präsenzveranstal- tungen und Onlinesequenzen in der Praxis nicht eindeutig zu identifizieren sind (vgl. Kraft o.J.; Häfele/Maier-Häfele 2004). Diesbezüglich wird E-Learning als Bestandteil von Blended Learning angesehen und ist demzufolge stets miteinbegriffen was auch dieser Arbeit zugrunde liegt (vgl. Bruns 2006).
+Lernplattformen"\textcite{Maihack2015} \improvement{hieraus was entnehmen, es ist wichtig für die Diskussion der Ergebnisse}
+
+\begin{minipage}[t]{0.3\textwidth}
+\end{minipage}
+\begin{minipage}[t]{0.3\textwidth}
+\includegraphics[width=\textwidth]{FKHist.png}
+\end{minipage}
+
+
+\begin{table}
+\centering
+\caption{Häufigkeitstabelle Methodenkompetenz}
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,5] & 0.00 & 0.00 & 0.00 \\
+  (5,10] & 3.00 & 25.00 & 25.00 \\
+  (10,15] & 7.00 & 58.33 & 83.33 \\
+  (15,20] & 2.00 & 16.67 & 100.00 \\
+  (20,25] & 0.00 & 0.00 & 100.00 \\
+   \hline
+\end{tabular}
+\end{table}

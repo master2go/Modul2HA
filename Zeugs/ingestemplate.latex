@@ -15,8 +15,8 @@
 \usepackage{wasysym}
 \usepackage{mbenotes}
 \usepackage{rotating}
-\usepackage{amsmath}
-\usepackage{amssymb}
+%\usepackage{amsmath}
+%\usepackage{amssymb}
 \usepackage{float}
 %\usepackage{caption}
 \usepackage[T1]{fontenc}
@@ -82,7 +82,7 @@ $endfor$
 
 
 %\input{titelneu.tex}
-\listoftodos{Gesammelte Unklarheiten}
+\listoftodos[Gesammelte Unklarheiten]
 \tableofcontents
 %\listoftables
 \setcounter{page}{1}
