@@ -15,6 +15,7 @@
 \usepackage{wasysym}
 \usepackage{mbenotes}
 \usepackage{rotating}
+\usepackage{framed}
 %\usepackage{amsmath}
 %\usepackage{amssymb}
 \usepackage{float}
@@ -67,8 +68,8 @@
 %\makeatother
 %\renewcommand*{\partformat}{\thepart}{}
 %\renewcommand*{\partheadmidvskip}{\nobreak\enskip}
-%\bibliography{/Users/iNge/Dropbox/Biblio/ingesbibneu}
-\bibliography{/Users/iNge/Dropbox/Biblio/library}
+\bibliography{/Users/Mama/Dropbox/Biblio/library}
+%\bibliography{/Users/iNge/Dropbox/Biblio/library}
 %\bibliography{library}
 
 
