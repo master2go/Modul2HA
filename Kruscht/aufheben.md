@@ -94,3 +94,156 @@ Lernplattformen"\textcite{Maihack2015} \improvement{hieraus was entnehmen, es is
    \hline
 \end{tabular}
 \end{table}
+
+\begin{table}[H]
+\centering
+%\caption{Histogramm und Häufigkeitstabelle der Fachkompetenz}
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,5] & 0.00 & 0.00 & 0.00 \\
+  (5,10] & 0.00 & 0.00 & 0.00 \\
+  (10,15] & 1.00 & 8.33 & 8.33 \\
+  (15,20] & 2.00 & 16.67 & 25.00 \\
+  (20,25] & 9.00 & 75.00 & 100.00 \\
+   \hline
+\end{tabular}
+\end{table}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.33\textwidth]{Anhang/FKHist.png}
+\caption{Histogramm und Häufigkeitstabelle der Fachkompetenz}
+\end{figure}
+\begin{table}
+\centering
+\caption{Häufigkeitstabelle Methodenkompetenz}
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,5] & 0.00 & 0.00 & 0.00 \\
+  (5,10] & 3.00 & 25.00 & 25.00 \\
+  (10,15] & 7.00 & 58.33 & 83.33 \\
+  (15,20] & 2.00 & 16.67 & 100.00 \\
+  (20,25] & 0.00 & 0.00 & 100.00 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\caption{Histogramm Methodenkompetenz}
+\includegraphics[width=0.33\textwidth]{Anhang/MKHist.png}
+\end{figure}
+
+
+\begin{table}[H]
+\centering
+\caption{Häufigkeitstabelle Personalkompetenz}
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,5] & 0.00 & 0.00 & 0.00 \\
+  (5,10] & 0.00 & 0.00 & 0.00 \\
+  (10,15] & 1.00 & 8.33 & 8.33 \\
+  (15,20] & 8.00 & 66.67 & 75.00 \\
+  (20,25] & 3.00 & 25.00 & 100.00 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\caption{Histogramm Personalkompetenz}
+\includegraphics[width=0.33\textwidth]{Anhang/Persohist.png}
+\end{figure}
+\begin{table}[H]
+\centering
+\caption{Häufigkeitstabelle Kommunikationskompetenz}
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,4] & 0.00 & 0.00 & 0.00 \\
+  (4,8] & 1.00 & 8.33 & 8.33 \\
+  (8,12] & 5.00 & 41.67 & 50.00 \\
+  (12,16] & 4.00 & 33.33 & 83.33 \\
+  (16,20] & 2.00 & 16.67 & 100.00 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\caption{Histogramm Kommunikationskompetenz}
+\includegraphics[width=0.33\textwidth]{Anhang/KKHist.png}
+\end{figure}
+
+\begin{table}[H]
+\centering
+\caption{Nutzungsverhalten}
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,10] & 1.00 & 8.33 & 8.33 \\
+  (10,20] & 10.00 & 83.33 & 91.67 \\
+  (20,30] & 1.00 & 8.33 & 100.00 \\
+  (30,40] & 0.00 & 0.00 & 100.00 \\
+   \hline
+\end{tabular}
+\end{table}
+
+\begin{figure}[H]
+\centering
+\caption{Histogramm Nutzungsverhalten}
+\includegraphics[width=0.33\textwidth]{Anhang/NVHist.png}
+\end{figure}
+
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,10] & 1.00 & 8.33 & 8.33 \\
+  (10,20] & 10.00 & 83.33 & 91.67 \\
+  (20,30] & 1.00 & 8.33 & 100.00 \\
+  (30,40] & 0.00 & 0.00 & 100.00 \\
+   \hline
+\end{tabular}
+
+begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\
+  \hline
+(0,22.5] & 0.00 & 0.00 & 0.00 \\
+  (22.5,45] & 1.00 & 8.33 & 8.33 \\
+  (45,67.5] & 6.00 & 50.00 & 58.33 \\
+  (67.5,90] & 5.00 & 41.67 & 100.00 \\
+   \hline
+\end{tabular}
+
+\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\ 
+  \hline
+(0,8] & 0.00 & 0.00 & 0.00 \\ 
+  (8,16] & 5.00 & 41.67 & 41.67 \\ 
+  (16,24] & 7.00 & 58.33 & 100.00 \\ 
+  (24,32] & 0.00 & 0.00 & 100.00 \\ 
+  (32,40] & 0.00 & 0.00 & 100.00 \\ 
+   \hline
+\end{tabular}
+
+\begin{table}[H]
+\centering
+\caption{Häufigkeitstabelle Handlungskompetenz}
+\
+\end{table}
+
+\begin{figure}[H]
+\centering
+\caption{Histogramm Handlungskompetenz}
+\includegraphics[width=0.33\textwidth]{Anhang/HKHistn.png}
+\end{figure}

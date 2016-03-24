@@ -1,4 +1,6 @@
 \documentclass[12pt, bibliography=totoc]{scrartcl}
+%\setkomafont{caption}{\small\bfseries\selectfont}
+%\setkomafont{captionlabel}{\small\bfseries}
 \usepackage[headsepline,automark]{scrlayer-scrpage} %Trennlinie an Kopfzeile
 %\usepackage{scrheadings}
 \clearpairofpagestyles
@@ -12,6 +14,9 @@
 \usepackage[a4paper, left=2cm, right=2.5cm]{geometry}
 \usepackage[onehalfspacing]{setspace}
 %\usepackage{apacite}
+\usepackage{caption}
+\captionsetup{labelfont={scriptsize,bf}}
+\captionsetup{font={scriptsize,bf}}
 \usepackage{wasysym}
 \usepackage{mbenotes}
 \usepackage{rotating}

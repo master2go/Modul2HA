@@ -49,10 +49,10 @@ Die Reliabilität wurde mittels Cronbachs alpha ermittelt (@Wassa)
 Er ergab für die einzelnen Kompetenzen Werte zwischen 0.72 und 0.98.
 
 
-\begin{table}[]
+\begin{table}[H]
 \centering
-\caption{My caption}
-\label{my-label}
+\caption{Ergebnisse: Cronbach's alpha}
+\label{cronbach}
 \begin{tabular}{@{}lll@{}}
 \toprule
 Kompetenz               & Cronbachs alpha & Items               \\ \midrule
