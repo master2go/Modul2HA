@@ -15,7 +15,7 @@ Dies unterstreicht einmal mehr, dass Lernen nicht hergestellt, sondern nur vom I
 
 In subjektorientierten Lerntheorien z.B.: \parencite{Holzkamp2004} wird Lernen beschrieben als eine Erweiterung von Handlungsfähigkeit und nicht als Anhäufung von Wissen. Holzkamp prägte den Begriff des „expansiven Lernens”, der ausdrücken soll, dass „intentionales, d.h. absichtliches und geplantes Lernen nur dann zustande kommt, wenn das Lernsubjekt selbst entsprechende Gründe dafür hat“ \[\ldots\] \parencite[29]{Holzkamp2004}. Nach Holzkamp kommt es dann zum Lernen, wenn das „Subjekt in seinem normalen Handlungsvollzug auf Hindernisse oder Widerstände gestoßen ist\[\ldots\].“ Im vorliegenden Fall ist das „Hindernis“ die Einführung von Bildungs- und Orientierungsplänen in Kitas, die es erforderlich machen den „normalen Handlungsvollzug“ zu verändern. Diese Problematik kann nicht mit dem vorhandenen Wissen und den vorhandenen Fähigkeiten gelöst werden, sondern erfordert das „Einschalten einer Lernschleife“ \parencite[29]{Holzkamp2004}. Diese Lernschleife wird mit der hier beschriebenen Weiterbildungsmaßnahme unter Berücksichtigung, dass es unmöglich ist, Inhalte passiv in Köpfe füllen zu können \parencite[12]{Faulstich2012}, gedreht.
 Schon 1993 verweist Holzkamp in seinem Buch Lernen auf die Notwendigkeit den Lerner in den Mittelpunkt zu stellen, verweist auf den Lehr-Lern-Kurzschluss und übt scharfe Kritik am vorherrschenden Schulsystem. Während die didakische Umsetzung der Subjektorientierung in Schulen wenig aufgegriffen wird, ist sie in der beruflichen Erwachsenenbildung eher gängig \parencite{grotluschen2005expansives}. \textcite[138]{ehlers2011qualitat} beschreibt vier Gründe für den immer größer werdenden Stellenwert des Lerners in Weiterbildungsmaßnahmen: *Ökonomische* Gründe liegen vor, weil die Lerner Weiterbildung oft selbst finanzieren und/oder die Weiterbildung in der Freizeit machen. *Pädagogisch-didaktische* Gründe liegen im Wandel zu konstruktivistischen Lerntheorien, die eine Subjektorientierung bedingen. *Gesellschaftlich* ist die Entwicklung hin zur Wissensgesellschaft zu betrachten und die Entwicklung hin zum *eLearning* als Lernform, dass per se den Lerner als Akteur einbezieht.
-Auch die hier beschriebene Weiterbildungsmaßnahme orientiert sich an den Grundlagen des subjektorientierten Lernens und vor dem Hintergrund, dass die Teilnehmer sehr individuelle Lernzugänge haben und letztlich nur selbst ihre Handlungsfähigkeit erweitern können. Die Inhalte bestehen weniger in Vermittlung von Faktenwissen als vielmehr in der Anknüpfung von bereits Erlebten in Form von Biographiearbeit und der Berücksichtigung der jeweils unterschliedelichen Kontextbezügen. Dies wird in den Präsenzphasen, als auch mit der Lernplattform beispielsweise dadurch umgesetzt, dass die Lerner zugleich auch Lehrende sind, Inhalte aktiv mitgestalten und wiederum der Gemeinschaft zur Verfügung stellen.
+Auch die hier beschriebene Weiterbildungsmaßnahme orientiert sich an den Grundlagen des subjektorientierten Lernens und vor dem Hintergrund, dass die Teilnehmer sehr individuelle Lernzugänge haben und letztlich nur selbst ihre Handlungsfähigkeit erweitern können. Die Inhalte bestehen weniger in Vermittlung von Faktenwissen als vielmehr in der Anknüpfung von bereits Erlebten in Form von Biographiearbeit und der Berücksichtigung der jeweils unterschiedlichen Kontextbezügen. Dies wird in den Präsenzphasen, als auch mit der Lernplattform beispielsweise dadurch umgesetzt, dass die Lerner zugleich auch Lehrende sind, Inhalte aktiv mitgestalten und wiederum der Gemeinschaft zur Verfügung stellen.
 
 Vor diesem Hintergrund wird in der vorliegenden Arbeit der „Lernerfolg“ eben als solche Erweiterung von Handlungsfähigkeit, in Form von Zuwachs an Handlungskompetenz gemessen.
 
@@ -61,8 +61,8 @@ Die Handlungskompetenz setzt sich nach @ErpenbeckRosenstiel200305 aus verschiede
 
 # Operationalisierung
 
-Der nicht direkt messbare Zuwachs an Handlungskompetenz, macht es notwendig Indikatoren zu bilden, die den Lernerfolg abbilden können. Für die einzelnen Kompetenzen muss also gefragt werden, woran ich den Zuwachs an dieser erkennen kann. Den Zuwachs an Personalkompetenz kann zum Beispiel über Freude, Interesse, intensive Beschäftigung mit dem Thema usw. erfasst werden. „Ein Indikator ist ein direkt beobachtbarer Sachverhalt, der durch Korrespondenzregeln mit dem nicht direkt beobachtbaren Sachverhalt verknüpft wird \[\ldots\]“ \parencite[85]{Kromrey2009}. Die Korrespondenzregeln beschreiben wie eng die zugrundeliegenden Indikatoren, mit dem tatsächlich zu messenden Sachverhalt korreliert sind. Da es sich im vorliegenden Fall um schlussfolgernde Indikatoren (es wird von nicht direkt beobachtbaren Sachverhalten auf eine bestimmte Merkmalsausprägung geschlossen) handelt, ist der Zusammenhang zwischen Indikator und der zu untersuchenden Kompetenz nicht empirisch überprüfbar, sondern „\[\ldots\] auf den Glauben an die Richtigkeit \[\ldots\]“ \parencite[166]{Kromrey2009} angewiesen.
-Wie bereits beschrieben wird der Erfolg der hier beschriebenen Weiterbildung an selbsteingeschätzten Kompetenzen gemessen. Der vorliegenden Arbeit liegt das Messinstrument von \textcite{Braun2008} zugrunde. Die Autoren haben dieses Instrument entwickelt, um den „subjektiven Erwerb von Kompetenzen durch den Besuch einzelner Lehrveranstaltungen \[messen zu können\]“\parencite[30]{Braun2008a}. Der Berliner Evaluationsinstrument besteht aus 26 Items und drei Filterfragen. Die Fragen zur *Fachkompetenz* versuchen den Kompetenzzustand zu erfassen, z.B.:„Ich kann wichtige Begriffe der Weiterbildung wiedergeben“, während die weniger wissensspezifischen Kompetenzen (*Personal-, Sozial-, und Methodenkompetenz*) explizit den Zuwachs der Kompetenz erfragen, z.B.: „In Folge dieser Weiterbildung, kann ich meine Arbeit besser strukturieren" 
+Der nicht direkt messbare Zuwachs an Handlungskompetenz, macht es notwendig Indikatoren zu bilden, die den Lernerfolg abbilden können. Für die einzelnen Kompetenzen muss also gefragt werden, woran man den Zuwachs an dieser erkennen kann. Den Zuwachs an Personalkompetenz kann zum Beispiel über Freude, Interesse, intensive Beschäftigung mit dem Thema usw. erfasst werden. „Ein Indikator ist ein direkt beobachtbarer Sachverhalt, der durch Korrespondenzregeln mit dem nicht direkt beobachtbaren Sachverhalt verknüpft wird \[\ldots\]“ \parencite[85]{Kromrey2009}. Die Korrespondenzregeln beschreiben wie eng die zugrundeliegenden Indikatoren, mit dem tatsächlich zu messenden Sachverhalt korreliert sind. Da es sich im vorliegenden Fall um schlussfolgernde Indikatoren (es wird von nicht direkt beobachtbaren Sachverhalten auf eine bestimmte Merkmalsausprägung geschlossen) handelt, ist der Zusammenhang zwischen Indikator und der zu untersuchenden Kompetenz nicht empirisch überprüfbar, sondern „\[\ldots\] auf den Glauben an die Richtigkeit \[\ldots\]“ \parencite[166]{Kromrey2009} angewiesen.
+Wie bereits beschrieben wird der Erfolg der hier beschriebenen Weiterbildung an selbsteingeschätzten Kompetenzen gemessen. Der vorliegenden Arbeit liegt das Messinstrument von \textcite{Braun2008} zugrunde. Die Autoren haben dieses Instrument entwickelt, um den „subjektiven Erwerb von Kompetenzen durch den Besuch einzelner Lehrveranstaltungen \[messen zu können\]“\parencite[30]{Braun2008a}. Der Berliner Evaluationsinstrument besteht aus 26 Items und drei Filterfragen. Die Fragen zur *Fachkompetenz* versuchen den Kompetenzzustand zu erfassen, z.B.:„Ich kann wichtige Begriffe der Weiterbildung wiedergeben“, während die weniger wissensspezifischen Kompetenzen (*Personal-, Sozial-, und Methodenkompetenz*) explizit den Zuwachs der Kompetenz erfragen, z.B.: „In Folge dieser Weiterbildung, kann ich meine Arbeit besser strukturieren". 
 
 ## Inhalte der Weiterbildung
 
@@ -83,48 +83,55 @@ Forschungsfrage: Welchen Effekt hat die Teilnahme an einer beruflichen Weiterbil
 
 Um die Frage beantworten zu können werden zwei Hypothesen überprüft:
 \begin{framed}
-Hypothese 1:Die Teilnahme an der Weiterbildung hat einen positiven Effekt auf den selbsteingeschätzten Zuwachs an Handlungskompetenz.
+Hypothese 1: Die Teilnahme an der Weiterbildung hat einen positiven Effekt auf den selbsteingeschätzten Zuwachs an Handlungskompetenz.
 
- Hypothese 2: Der Effekt ist um so größer, je intensiver die Lernplattform genutzt wird.
+ Hypothese 2: Der selbsteingeschätzte Zuwachs an Handlungskompetenz, ist um so größer, je intensiver die Lernplattform genutzt wird.
  \end{framed}
 
 
 ## Studiendesign
 
-Das Ziel der Studie ist es, die Weiterbildungsmaßnahme inhaltlich, als auch strukturell zu optimieren. Es wird ein vollstandartisierter Fragebogen erstellt, der an alle Teilnehmer (20) versandt wird. Die Auswertung der Daten erfolgt univariat und bivariat. Die deskriptiv Statistik zeigt die Häufigkeiten der Antworten und die Lage- und Streumaße der Einzelkompetenzen, sowie der Gesamtkompetenz.
+Das Ziel der Studie ist es, die Weiterbildungsmaßnahme inhaltlich, als auch strukturell zu optimieren. Es wird ein vollstandartisierter Fragebogen erstellt, der an alle Teilnehmer (20) versandt wird. 
 Außerdem wird mittels des Fragebogens noch erhoben, wie häufig und zu welchem Zweck die digitale Lernplattform von den Teilnehmern genutzt wird. Es handelt sich um eine formative Evaluation, d.h. es ist keine abschließende Untersuchung, sondern eine Untersuchung, die im laufenden Prozess durchgeführt wird.
 
 ## Messinstrument
 
-Der oben beschriebene Fragebogen enthält zu den einzelnen Kompetenzen vier bzw. fünf Items. Die Items werden mit einer fünfstufigen Likertskala (1 = trifft nicht zu; 5 = trifft abgefragt. 
+Für die Messung wird auf der Seite \url{https://www.soscisurvey.de} ein Onlinefragebogen erstellt. Die Teilnehmer bekommen die Einladung per Mail zugeschickt, der Fragebogen ist über einen Zeitraum von zwei Wochen freigeschalten. Die Bearbeitung des Fragebogens dauert etwa 5 Minuten.
+Der oben beschriebene Fragebogen enthält zu den einzelnen Kompetenzen vier bzw. fünf Items. Die Items werden mit einer fünfstufigen Likertskala (1 = trifft nicht zu; 5 = trifft vollständig zu) abgefragt. 
 
 - Methodenkompetenz: besteht aus 4 Items (MK1, MK2, MK3, MK4)
 - Fachkompetenz: besteht aus 5 Items (FK1,FK2,FK3,FK4,FK5)
 - Personalkompetenz: besteht aus 5 Items (PK1,PK2,PK3,PK4,PK5)
 - Kommunikationskompetenz: besteht aus 5 Items (KK1,KK2,KK3,KK4,KK5)
-
-Außerdem wird noch die Nutzungshäufigkeit in Verbindung mit der Tätigkeit abgefragt. Insgesamt besteht der Fragebogen aus 26 Items: Mit 18 Items werden die Kompetenzen abgefragt und mit 8 Items das Nutzungsverhalten
+- 
+ Insgesamt besteht der Fragebogen aus 26 Items: Mit 18 Items werden die Kompetenzen abgefragt und mit 8 Items das Nutzungsverhalten
 Eine ausführliche Zusammenstellung der Items, mit Indikatoren und Skalierung findet sich in \improvement{~ref{itemtabelle}}. 
 
 Für die statistische Auswertung werden die Summenscores der jeweiligen Items operationalisiert. Diese werden dann entsprechend einer intervallskalierten Skala behandelt. Dieses Vorgehen ist kritisch zu betrachten, da eine Rating-Skala streng genommen nur eine Ordinalskala ist. Die Intervallskala setzt voraus, dass die Unterschiede zwischen den Stufen, wie zum Beispiel bei einer Temperaturskala, immer gleich groß sind. Ob dies für eine Ratingskala zutrifft darf hinterfragt werden, da es aber übliche Praxis ist, solche Ratingskalen intervallskaliert zu behandeln, wird dies auch für diese Arbeit so übernommen \parencite[65]{Sedlmeier2013}. 
 
-Der Fragebogen wurde vor der Verteilung an die Teilnehmer einem Pretest unterworfen, welcher mittels dem Cronbachs alpha Test überprüft wurde \parencite{Wassa}. Es wurden 5 Fragebögen ausgefüllt und die Ergebnisse für die einzelnen Kompetenzen lagen zwischen 0.72 und 0.98., was als gut bis sehr gut anzusehen ist (~ref(cronbach)).
+
+Für eine quantitative Erhebung ist es von entscheidender Bedeutung, dass die Gütekriterien: Objektivität, Validität und Reliabilität eingehalten werden \parencite[104]{Hader2015}.
+Die Objektivität wird in Durchführungs- Auswertungs- und Interprätationsobjektivität unterschieden \parencite[70]{Sedlmeier2013}. Die Durchführungsobjektivität kann hier als gegeben angenommen werden, da es durch die Online-Befragung zu keiner Beeinflussung durch den Fragebogenersteller kam. Die Auswertungsobjektivität ist ebenfalls gegeben, da nur Ratingskalen und keine offene Fragen ausgewertet wurden. Die Interprätationsobjektivität ist dann besonders hoch, wenn es für die gewonnen Werte Normen gibt, die das Einordnen der Ergebnisse erleichtern. Im vorliegenden Fall liegen solche Normen nicht vor, da noch wenig standardisierten Tests zur Erfassung von Kompetenzen vorliegen \parencite{Braun2008}.
+
+Die Validität (Gültigkeit der Aussagen) orientiert hier sich an der Diskussion des zugrundeliegenden, bereits erwähnten Fragebogens \parencite{Braun2008}. Da es noch wenig Untersuchungen zur Validität bei Selbsteinschätzung zu Kompetenzen kommt ist die Überprüfung schwierig. Da aber z.B. bei Untersuchungen zu selbsteingeschätzten Persönlichkeitsmerkmalen die Validität teilweise sehr hoch ist, wird davon ausgegangen, „dass Selbstauskünfte einen validen Indikator für Kompetenzerwerb darstellen.“ \parencite[32]{Braun2008}
+
+Der Fragebogen wurde vor der Verteilung an die Teilnehmer einem Pretest unterworfen. Die Reliabilität (Genauigkeit mit der ein Merkmal gemessen wird \parencite[5]{rammstedt2004bestimmung}) wurde mittels dem Cronbachs alpha Test überprüft wurde \parencite{Wassa}. Es wurden 5 Fragebögen ausgefüllt und die Ergebnisse für die einzelnen Kompetenzen lagen zwischen 0.72 und 0.98., was als gut bis sehr gut anzusehen ist (~ref(cronbach)).
 
 
 
 # Ergebnisse
-
-Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus den einzelnen Itembaterrien zusammen. Die Fachkompetenz und die Personalkompetenz wurde mit je fünf Items abgefragt. Die Summenwerte wurden in die Klassen 0-5,5-10,10-15,15-20 und 20-25 eingeteilt. Die Methodenkompetenz und die Kommunikationskompetenz wurde mit je vier Items abgefragt und die Ergebnisse wurden wie folgt klassifiziert: 0-4,4-8,8-12,12-16,16-20. Es ergeben sich für jede Kompetenz fünf Klassen, die entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bewertet werden. Die Datenmenge ist sehr klein 
+Die Ergebnisse wurden mit dem freien Statistiksoftware R (R - The R Project for Statistical Computing) ausgewertet. Die gewonnen Daten wurden als Textdateien aus dem Onlinetool exportiert und in R eingelesen. Die negativ formulierten Item wurden rekodiert.
+Es wurden 12 Fragebögen ausgefüllt und ausgewertet. Die Auswertung der Daten erfolgt univariat und bivariat. 
+Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus den einzelnen Itembatterien zusammen. Die Fachkompetenz und die Personalkompetenz wurde mit je fünf Items abgefragt. Die Summenwerte wurden in die Klassen 0-5,5-10,10-15,15-20 und 20-25 eingeteilt. Die Methodenkompetenz und die Kommunikationskompetenz wurde mit je vier Items abgefragt und die Ergebnisse wurden wie folgt klassifiziert: 0-4,4-8,8-12,12-16,16-20. Es ergeben sich somit für jede Kompetenz fünf Klassen, die entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bewertet werden. Die deskriptiv Statistik zeigt nachfolgend die Häufigkeiten der Antworten und die Lage- und Streumaße der Einzelkompetenzen, sowie der Gesamtkompetenz.
 
 * Fachkompetenz
 
-Die Häufigkeitstabelle zeigt, dass bei keinem Teilnehmer der Zuwachs an Handlungskompetenz als gar nicht oder  gering eingeschätzt wurde. 75 \% der Teilnehmer schätzen dagegen ihren Zuwachs an Fachkompetenz als sehr hoch ein.
+ ~\ref{FK}  zeigt, dass der Zuwachs an Fachkompetenz mit mindestens Mittel eingeschätzt wurde (1 Teilnehmer). 75\% der Teilnehmer schätzen den Zuwachs an Fachkompetenz als sehr hoch ein, zwei Teilnehmer als hoch. Es gibt keine Teilnehmer, die ihren Zuwachs als nicht vorhanden oder sehr gering einschätzen.
 
 \begin{figure}[H]
 \begin{minipage}{.5\linewidth}
-\includegraphics[width=1.0\linewidth]{Anhang/FKHistn.png}
+\includegraphics[width=0.8\linewidth]{Anhang/FKHistnn.png}
 
-\label{pic:aufbau}
 \end{minipage}
 \begin{minipage}{.5\linewidth}
 \centering
@@ -146,13 +153,16 @@ Die Häufigkeitstabelle zeigt, dass bei keinem Teilnehmer der Zuwachs an Handlun
 \label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Fachkompetenz}
+\label{FK}
 \end{figure}
 
+Die Lagemaße  der Fachkompetenz (~\ref{tab:lFK}) ergeben einen Mittelwert von ca 21. Dieser sehr hohe Wert entspricht auch dem Median und dem Modus. Der niedrigste Wert lag bei 14 der höchste Wert bei 25. 
 
 
 \begin{table}[H]
 \centering
 \caption{Lage- und Streumaße Fachkompetenz}
+\label(tab:lFK)
 \begin{tabular}{rrrrrrrr}
   \hline
   N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
@@ -165,13 +175,13 @@ Die Häufigkeitstabelle zeigt, dass bei keinem Teilnehmer der Zuwachs an Handlun
 
 * Methodenkompetenz
 
-Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber von drei Teilnehmer als gering eingeschätzt. Knapp zweidrittel der Teilnehmer (ca 59\%) schätzen ihren methodischen Kompetenzzuwachs auf mittel ein, etwa 17\% auf hoch.  
+Auch bei der Methodenkompetenz, siehe ~\ref{fig:MK} wird mindestens ein mittlerer Zuwachs eingeschätzt (bei 50\% der Teilnehmer). Fünf Teilnehmer schätzen ihren Zuwachs hier als hoch ein, ein Teilnehmer auf sehr hoch.
 
 \begin{figure}[H]
 \begin{minipage}{.5\linewidth}
-\includegraphics[width=1.0\linewidth]{Anhang/MKHistn.png}
+\includegraphics[width=0.8\linewidth]{Anhang/MKHistnn.png}
 
-\label{pic:aufbau}
+
 \end{minipage}
 \begin{minipage}{.5\linewidth}
 \centering
@@ -193,10 +203,11 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 \label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Methodenkompetenz}
+\label{fig:MK}
 \end{figure}
 
 
-
+Wie Tabelle ~\ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert und Median liegen bei etwa 12,5, was gerade noch der Klasse 4, also hohem Kompetenzzuwachs entspricht. 
 
 
 
@@ -205,6 +216,7 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 \begin{table}[H]
 \centering
 \caption{Lage- und Streumaße Methodenkompetenz}
+\label{tab:lMK}
 \begin{tabular}{rrrrrrrr}
   \hline
   N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
@@ -219,11 +231,13 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 
 * Personalkompetenz
 
+Der Zuwachs an Personalkompetenz, siehe ~\ref{fig:PK} wurde von etwa zwei Drittel der Teilnehmer als hoch eingeschätzt, von einem Teilnehmer als Mittel und von 3 Teilnehmern als sehr hoch. Es gibt keine Teilnehmer die keinen oder einen geringen personalen Kompetenzzuwachs einschätzen.
+
 \begin{figure}[H]
 \begin{minipage}{.5\linewidth}
-\includegraphics[width=1.0\linewidth]{Anhang/PKHistn.png}
+\includegraphics[width=0.8\linewidth]{Anhang/PKHistnn.png}
 
-\label{pic:aufbau}
+\label{PK}
 \end{minipage}
 \begin{minipage}{.5\linewidth}
 \centering
@@ -245,14 +259,17 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 \label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Personalkompetenz}
+\label{fig:PK}
 \end{figure}
 
+Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 der höchste Wert 23. Zusammenfassend betrachtet ist auch in dieser Kategorie der selbsteingeschätzte Kompetenzzuwachs als hoch einzustufen. 
 
 
 
 \begin{table}[H]
 \centering
 \caption{Lage- und Streumaße: Personalkompetenz}
+\label{tab:lPK}
 \begin{tabular}{rrrrrrrr}
   \hline
   N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
@@ -268,7 +285,7 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 
 \begin{figure}[H]
 \begin{minipage}{.5\linewidth}
-\includegraphics[width=1.0\linewidth]{Anhang/KKHistn.png}
+\includegraphics[width=0.8\linewidth]{Anhang/KKHistnn.png}
 
 \label{pic:aufbau}
 \end{minipage}
@@ -292,6 +309,7 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 \label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Kommunikationskompetenz}
+\
 \end{figure}
 
 
@@ -319,7 +337,7 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 
 \begin{figure}[H]
 \begin{minipage}{.5\linewidth}
-\includegraphics[width=1.0\linewidth]{Anhang/NVHistn.png}
+\includegraphics[width=0.8\linewidth]{Anhang/NVHistnn.png}
 
 \label{pic:aufbau}
 \end{minipage}
@@ -363,7 +381,7 @@ Bei der Methodenkompetenz wurde der Zuwachs von keinem Teilnehmer auf Null, aber
 
 \begin{figure}[H]
 \begin{minipage}{.5\linewidth}
-\includegraphics[width=1.0\linewidth]{Anhang/HKHistn.png}
+\includegraphics[width=0.8\linewidth]{Anhang/HKHistnn.png}
 
 \label{pic:aufbau}
 \end{minipage}

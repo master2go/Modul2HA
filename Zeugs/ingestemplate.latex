@@ -109,6 +109,7 @@ $body$
   %\renewcommand{\thetable}{{A}.\arabic{table}}
   %\renewcommand{\thetable}{\Alph{section}.\arabic{table}}
   \input{Anhang/Itemzuordnung}
+  \input{Anhang/Klassen}
 
 
 %\input{tabelleanalysen}
