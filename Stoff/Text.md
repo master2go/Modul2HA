@@ -1,8 +1,8 @@
 
-# Einleitung
-\improvement{Pisa abschneiden machte es erforderlich usw.. Hier Holzkamp konkret} 
+# Einleitung 
+\info{das mit den frauen muss noch rein}
 \glqq Das weltweit verfügbare Wissen verdoppelt sich zurzeit alle vier bis fünf Jahre. Der amerikanische Soziologe Richard Sennet (1998) erwartet, dass ein amerikanischer College Student in seinem Berufsleben elf Mal die Stelle wechselt und dreimal die Basis seines Wissens komplett austauscht \parencite[138]{Ehlers2002}.\grqq{}
-Vor diesem Hintergrund kommt der beruflichen Weiterbildung eine immer größere Bedeutung zu, den beruflichen Anforderung gerecht zu werden, erfordert die Bereitschaft zu lebenslangem Lernen. Mit dem Zuwachs an Veränderung in Organisationen und der damit verbundenen Anforderung „am Ball zu bleiben“ gilt es Lernkonzepte zu finden die modernen konstruktivistischen Lerntheorien einerseits und beruflichem Lernen von Erwachsenen andererseits gerecht werden.  Das immer größere Lernpensum, kann nicht ausschließlich in Präsenzveranstaltung gelehrt werden, sondern viel mehr gilt es von Zeit und Ort unabhängige Lernmöglichkeiten zu schaffen. Digitale Lernplattformen leisten hier einen wichtigen Beitrag und können je nach didaktischer Aufbereitung, selbstorganisiertes, konstruktivistisches und damit nachhaltiges Lernen fördern.
+Vor diesem Hintergrund kommt der beruflichen Weiterbildung eine immer größere Bedeutung zu, den beruflichen Anforderung gerecht zu werden, erfordert die Bereitschaft zu lebenslangem Lernen. Mit dem Zuwachs an Veränderung in Organisationen und der damit verbundenen Anforderung „am Ball zu bleiben“ gilt es Lernkonzepte zu finden, die modernen konstruktivistischen Lerntheorien einerseits und beruflichem Lernen von Erwachsenen andererseits gerecht werden.  Das immer größere Lernpensum, kann nicht mehr ausschließlich in Präsenzveranstaltung gelehrt werden, es ist daher notwendig von Zeit und Ort unabhängige Lernmöglichkeiten zu schaffen. Digitale Lernplattformen leisten hier einen wichtigen Beitrag und können je nach didaktischer Aufbereitung, selbstorganisiertes, konstruktivistisches und damit nachhaltiges Lernen fördern.
 Die vorliegende Arbeit befasst sich mit der Evaluation einer beruflichen Weiterbildung, die als Blended Learning Kurs für FrühpädagogInnen \footnote{Der Begriffe FrühpädagogInnen, schließt alle im Kitabereich tätigen Fachkräfte ein} konzipiert wurde. Inhalt der Weiterbildung ist das kennenlernen und umsetzen können des Early-Excellence Konzept (EEC), ein Ansatz mit dem Bildungs- und Orientierungspläne der Bundesländer in den Kindertagesstätten konzeptionell verankert werden können. Mit Hilfe eines standardisierten Fragebogens wird versucht, den durch die Weiterbildung gewonnen, selbst eingeschätzten Zuwachs an Handlungskompetenz zu bestimmen. Es wird einmal das Weiterbildungsangebot insgesamt und zum anderen der Einfluss der digitalen Lernplattform betrachtet.
 
 # Theorierahmen
@@ -14,16 +14,19 @@ Dies unterstreicht einmal mehr, dass Lernen nicht hergestellt, sondern nur vom I
 
 
 In subjektorientierten Lerntheorien z.B.: \parencite{Holzkamp2004} wird Lernen beschrieben als eine Erweiterung von Handlungsfähigkeit und nicht als Anhäufung von Wissen. Holzkamp prägte den Begriff des „expansiven Lernens”, der ausdrücken soll, dass „intentionales, d.h. absichtliches und geplantes Lernen nur dann zustande kommt, wenn das Lernsubjekt selbst entsprechende Gründe dafür hat“ \[\ldots\] \parencite[29]{Holzkamp2004}. Nach Holzkamp kommt es dann zum Lernen, wenn das „Subjekt in seinem normalen Handlungsvollzug auf Hindernisse oder Widerstände gestoßen ist\[\ldots\].“ Im vorliegenden Fall ist das „Hindernis“ die Einführung von Bildungs- und Orientierungsplänen in Kitas, die es erforderlich machen den „normalen Handlungsvollzug“ zu verändern. Diese Problematik kann nicht mit dem vorhandenen Wissen und den vorhandenen Fähigkeiten gelöst werden, sondern erfordert das „Einschalten einer Lernschleife“ \parencite[29]{Holzkamp2004}. Diese Lernschleife wird mit der hier beschriebenen Weiterbildungsmaßnahme unter Berücksichtigung, dass es unmöglich ist, Inhalte passiv in Köpfe füllen zu können \parencite[12]{Faulstich2012}, gedreht.
-Schon 1993 verweist Holzkamp in seinem Buch Lernen auf die Notwendigkeit den Lerner in den Mittelpunkt zu stellen, verweist auf den Lehr-Lern-Kurzschluss und übt scharfe Kritik am vorherrschenden Schulsystem. Während die didakische Umsetzung der Subjektorientierung in Schulen wenig aufgegriffen wird, ist sie in der beruflichen Erwachsenenbildung eher gängig \parencite{grotluschen2005expansives}. \textcite[138]{ehlers2011qualitat} beschreibt vier Gründe für den immer größer werdenden Stellenwert des Lerners in Weiterbildungsmaßnahmen: *Ökonomische* Gründe liegen vor, weil die Lerner Weiterbildung oft selbst finanzieren und/oder die Weiterbildung in der Freizeit machen. *Pädagogisch-didaktische* Gründe liegen im Wandel zu konstruktivistischen Lerntheorien, die eine Subjektorientierung bedingen. *Gesellschaftlich* ist die Entwicklung hin zur Wissensgesellschaft zu betrachten und die Entwicklung hin zum *eLearning* als Lernform, dass per se den Lerner als Akteur einbezieht.
-Auch die hier beschriebene Weiterbildungsmaßnahme orientiert sich an den Grundlagen des subjektorientierten Lernens und vor dem Hintergrund, dass die Teilnehmer sehr individuelle Lernzugänge haben und letztlich nur selbst ihre Handlungsfähigkeit erweitern können. Die Inhalte bestehen weniger in Vermittlung von Faktenwissen als vielmehr in der Anknüpfung von bereits Erlebten in Form von Biographiearbeit und der Berücksichtigung der jeweils unterschiedlichen Kontextbezügen. Dies wird in den Präsenzphasen, als auch mit der Lernplattform beispielsweise dadurch umgesetzt, dass die Lerner zugleich auch Lehrende sind, Inhalte aktiv mitgestalten und wiederum der Gemeinschaft zur Verfügung stellen.
+Schon 1993 verweist Holzkamp in seinem Buch „Lernen“ auf die Notwendigkeit den Lerner in den Mittelpunkt zu stellen, verweist auf den Lehr-Lern-Kurzschluss\footnote{Hiermit ist gemeint, dass nicht alles was gelehrt wird, auch gelernt wird} und übt scharfe Kritik am vorherrschenden Schulsystem. Während die didakische Umsetzung der Subjektorientierung in Schulen wenig aufgegriffen wird, ist sie in der beruflichen Erwachsenenbildung eher gängig \parencite{grotluschen2005expansives}. \textcite[138]{ehlers2011qualitat} beschreibt vier Gründe für den immer größer werdenden Stellenwert des Lerners in Weiterbildungsmaßnahmen: *Ökonomische* Gründe liegen vor, weil die Lerner Weiterbildung oft selbst finanzieren und/oder die Weiterbildung in der Freizeit machen. *Pädagogisch-didaktische* Gründe liegen im Wandel zu konstruktivistischen Lerntheorien, die eine Subjektorientierung bedingen. *Gesellschaftlich* ist die Entwicklung hin zur Wissensgesellschaft zu betrachten und die Entwicklung hin zum *eLearning* als Lernform, dass per se den Lerner als Akteur einbezieht.
+Auch die hier beschriebene Weiterbildungsmaßnahme orientiert sich an den Grundlagen des subjektorientierten Lernens und vor dem Hintergrund, dass die Teilnehmer sehr individuelle Lernzugänge haben und letztlich nur selbst ihre Handlungsfähigkeit erweitern können. Die Inhalte bestehen weniger in Vermittlung von Faktenwissen, als vielmehr in der Anknüpfung von bereits Erlebten in Form von Biographiearbeit und der Berücksichtigung der jeweils unterschiedlichen Kontextbezügen. Dies wird in den Präsenzphasen, als auch mit der Lernplattform beispielsweise dadurch umgesetzt, dass die Lerner zugleich auch Lehrende sind, Inhalte aktiv mitgestalten und wiederum der Gemeinschaft zur Verfügung stellen.
 
 Vor diesem Hintergrund wird in der vorliegenden Arbeit der „Lernerfolg“ eben als solche Erweiterung von Handlungsfähigkeit, in Form von Zuwachs an Handlungskompetenz gemessen.
 
 ## Blended Learning
 
-Im folgenden soll der Begriff des Blended Learning und was im Rahmen dieser Arbeit darunter zu verstehen erläutert werden. Direkt übersetzt bedeutet Blended Lerning „vermischtes Lernen“. Das heißt es handelt sich bei dieser Lernform um ein Lehr-Lernsetting, dass sowohl klassisches Face-to-Face-Lernen, als auch eLearning beinhaltet. Die verschiedenen Lernangebote stehen sich nicht als entweder oder gegenüber, sondern als sich ergänzend. \texcite[3]{kerres2001multimediale} betont „dass die besondere Qualität und auch Effizienz eines Lernangebotes vor allem in der Kombination von Elementen unterschiedlicher methodischer und medialer Aufbereitung zum Tragen kommt“.
+Im folgenden soll der Begriff des Blended Learning und was im Rahmen dieser Arbeit darunter zu verstehen erläutert werden. Direkt übersetzt bedeutet Blended Lerning „vermischtes Lernen“. Das heißt es handelt sich bei dieser Lernform um ein Lehr-Lernsetting, dass sowohl klassisches Face-to-Face-Lernen, als auch eLearning beinhaltet. Die verschiedenen Lernangebote stehen sich nicht als entweder oder gegenüber, sondern als sich ergänzend. \textcite[3]{kerres2001multimediale} betont „dass die besondere Qualität und auch Effizienz eines Lernangebotes vor allem in der Kombination von Elementen unterschiedlicher methodischer und medialer Aufbereitung zum Tragen kommt“.
 \textcite[45]{ehlers2011qualitat} merkt kritsch an, dass der Begriff nicht vermischtes Lernen meint, sondern, dass es um eine Mischung von Methoden mit denen gelernt wird, geht. „Blended Learning strebt die Optimierung von Lernprozessen zur Erreichung individueller Lernziele unter der Nutzung aller dafür geeigneter Lehr-Lernmethoden an“ \parencite[46]{ehlers2011qualitat}.
 Blended Learning Konzepte gibt es schon seit vielen Jahren und sie werden sowohl in Schulen und Hochschulen , als auch in beruflichen Weiterbildungsmaßnahmen eingesetzt. Elearning Angebote wurden in Deutschland nur sehr zögerlich angenommen, es überwiegen in weiten Bereichen noch traditionelle Lernformen. Aus dieser Situation heraus bot sich das Blended Learning als Lernform an, da es traditonelle und moderne, digitale Lernformen miteinander verbindet \parencite{Maihack2015}. Für den Einsatz von Blended Learning sprechen nach \textcite{thomas2000evaluating} zahlreiche Gründe:
+
+\improvement{die Aufzählung ist auch nicht so toll}
+
 * Orts- und Zeitunabhängigkeit
 
 * Leichte Aktualisierbarkeit
@@ -37,7 +40,7 @@ Blended Learning Konzepte gibt es schon seit vielen Jahren und sie werden sowohl
 
 
 
-Die Form des hybriden Lernens erlaubt es, Vorteile von digitalem Lernen (selbstorganisiert, zeit- und ortsunabhängig, ) und Vorteile von traditionellem Lernen (sich kennen lernen, Gruppen bilden, Motivation \ldots) zu kombinieren \parencite{Zumbach2010}. Für die Gestaltung eines  eLearning Angebotes  auf der Grundlage einer konstruktivistischen Lerntheorie, ist es notwendig den Lernenden die Möglichkeit der Eigentätigkeit, Formen des sozialen Austausches, Möglichkeiten zur Bearbeitung komplexer Probleme usw. einzuräumen \change{woher ist das? Zitat}. Letzlich soll dieses Lernarrangement selbstorganisiertes und reflexives Lernen ermöglichen.
+Die Form des hybriden Lernens erlaubt es, Vorteile von digitalem Lernen (selbstorganisiert, zeit- und ortsunabhängig, ) und Vorteile von traditionellem Lernen (sich kennen lernen, Gruppen bilden, Motivation \ldots) zu kombinieren \parencite{Zumbach2010}. Für die Gestaltung eines  eLearning Angebotes  auf der Grundlage einer konstruktivistischen Lerntheorie, ist es notwendig den Lernenden die Möglichkeit der Eigentätigkeit, Formen des sozialen Austausches, Möglichkeiten zur Bearbeitung komplexer Probleme usw. einzuräumen. \change{woher ist das? Zitat}Letzlich soll dieses Lernarrangement selbstorganisiertes und reflexives Lernen ermöglichen.
 
 
 Es sei angemerkt, dass es sowohl verschiedene Begriffe, als auch verschiedene Definitionen von Blended Learning gibt. Neben Begriffen wie integrated Learning, flexible Learning usw. wird es im deutschen Sprachraum oft auch als "Hybrid Teaching" benannt \parencite{Oliver2005}{kerres2001multimediale}. In der vorliegenden Arbeit meint Blended Learning, die sich ergänzende Kombination von verschiedenen Medien, nämlich Präsenzlernen in Form von Wochendseminaren und eLearning in Form einer Moodle-Lernplattform.
@@ -46,9 +49,9 @@ Es sei angemerkt, dass es sowohl verschiedene Begriffe, als auch verschiedene De
 
 
 ## Handlungskompetenz
-Die Qualität der hier beschriebenen Weiterbildung wird auf der Ebene des Ergebnisses evaluiert. Wird wie oben beschreiben der Lerner in den Mittelpunkt gerückt, kann der Lernerfolg nur der Zuwachs an Handlungskompetenz sein. \parencite[4]{Ehlers2002}. Gemessen werden nicht Leistungsresultate, sondern vielmehr die Fähigkeit bzw. Disposition neue, kreative Lösungen hervorzubringen, die Messung des Kompetenzzuwachses orientiert sich am Einzelnen und entspricht somit der Subjektzentrierung des vorgestellten Lernarrangements \parencite{ErpenbeckRosenstiel200305}. Handlungskompetenz meint hier die „Fähigkeit in einer komplexen Welt gestaltend mit der Umwelt agieren zu können“ \parencite[4]{Ehlers2002}.
+Die Qualität der hier beschriebenen Weiterbildung wird auf der Ebene von Selbsteinschätzung evaluiert. Wird wie oben beschreiben der Lerner in den Mittelpunkt gerückt, kann der Lernerfolg nur der Zuwachs an Handlungskompetenz sein. \parencite[4]{Ehlers2002}. Gemessen werden nicht Leistungsresultate, sondern vielmehr die Fähigkeit bzw. Disposition neue, kreative Lösungen hervorzubringen. Die Messung des Kompetenzzuwachses orientiert sich am Einzelnen und entspricht somit der Subjektzentrierung des vorgestellten Lernarrangements \parencite{ErpenbeckRosenstiel200305}. Handlungskompetenz meint hier die „Fähigkeit in einer komplexen Welt gestaltend mit der Umwelt agieren zu können“ \parencite[4]{Ehlers2002}.
 
-Die Handlungskompetenz setzt sich nach @ErpenbeckRosenstiel200305 aus verschiedenen Kompetenzen zusammen, die nach \textcite{ErpenbeckRosenstiel200305} und \autocite{Braun2008} wie folgt zusammengefasst und beschrieben werden können:
+Die Handlungskompetenz setzt sich aus verschiedenen Kompetenzen zusammen, die nach \textcite{ErpenbeckRosenstiel200305} und \textcite{Braun2008} wie folgt zusammengefasst und beschrieben werden können:
 
 
 1. Personale Kompetenzen: Diese Kompetenz beschreibt z.B.: die Fähigkeit selbstorganisiert zu handeln, sich selbst einschätzen zu können, Motive und Werte des Handelns.
@@ -62,15 +65,15 @@ Die Handlungskompetenz setzt sich nach @ErpenbeckRosenstiel200305 aus verschiede
 # Operationalisierung
 
 Der nicht direkt messbare Zuwachs an Handlungskompetenz, macht es notwendig Indikatoren zu bilden, die den Lernerfolg abbilden können. Für die einzelnen Kompetenzen muss also gefragt werden, woran man den Zuwachs an dieser erkennen kann. Den Zuwachs an Personalkompetenz kann zum Beispiel über Freude, Interesse, intensive Beschäftigung mit dem Thema usw. erfasst werden. „Ein Indikator ist ein direkt beobachtbarer Sachverhalt, der durch Korrespondenzregeln mit dem nicht direkt beobachtbaren Sachverhalt verknüpft wird \[\ldots\]“ \parencite[85]{Kromrey2009}. Die Korrespondenzregeln beschreiben wie eng die zugrundeliegenden Indikatoren, mit dem tatsächlich zu messenden Sachverhalt korreliert sind. Da es sich im vorliegenden Fall um schlussfolgernde Indikatoren (es wird von nicht direkt beobachtbaren Sachverhalten auf eine bestimmte Merkmalsausprägung geschlossen) handelt, ist der Zusammenhang zwischen Indikator und der zu untersuchenden Kompetenz nicht empirisch überprüfbar, sondern „\[\ldots\] auf den Glauben an die Richtigkeit \[\ldots\]“ \parencite[166]{Kromrey2009} angewiesen.
-Wie bereits beschrieben wird der Erfolg der hier beschriebenen Weiterbildung an selbsteingeschätzten Kompetenzen gemessen. Der vorliegenden Arbeit liegt das Messinstrument von \textcite{Braun2008} zugrunde. Die Autoren haben dieses Instrument entwickelt, um den „subjektiven Erwerb von Kompetenzen durch den Besuch einzelner Lehrveranstaltungen \[messen zu können\]“\parencite[30]{Braun2008}. Der Berliner Evaluationsinstrument besteht aus 26 Items und drei Filterfragen. Die Fragen zur *Fachkompetenz* versuchen den Kompetenzzustand zu erfassen, z.B.:„Ich kann wichtige Begriffe der Weiterbildung wiedergeben“, während die weniger wissensspezifischen Kompetenzen (*Personal-, Sozial-, und Methodenkompetenz*) explizit den Zuwachs der Kompetenz erfragen, z.B.: „In Folge dieser Weiterbildung, kann ich meine Arbeit besser strukturieren". 
+Wie bereits beschrieben wird der Erfolg der hier beschriebenen Weiterbildung an selbsteingeschätzten Kompetenzen gemessen. Der vorliegenden Arbeit liegt das Messinstrument von \textcite{Braun2008} zugrunde. Die Autoren haben dieses Instrument entwickelt, um den „subjektiven Erwerb von Kompetenzen durch den Besuch einzelner Lehrveranstaltungen \[messen zu können\]“ \parencite[30]{Braun2008}. Der Berliner Evaluationsinstrument besteht aus 26 Items und drei Filterfragen. Die Fragen zur *Fachkompetenz* versuchen den Kompetenzzustand zu erfassen, z.B.:„Ich kann wichtige Begriffe der Weiterbildung wiedergeben“, während die weniger wissensspezifischen Kompetenzen (*Personal-, Sozial-, und Methodenkompetenz*) explizit den Zuwachs der Kompetenz erfragen, z.B.: „In Folge dieser Weiterbildung, kann ich meine Arbeit besser strukturieren“. Für die vorliegende Arbeit wurde das Berliner Instrument verändert und an die hier formulierte Fragestellung angepasst.
 
 ## Inhalte der Weiterbildung
 
-Das schlechte Abschneiden deutscher Kinder bei der PISA-Studie 2001 führte unter anderem dazu, dass in Kindergärten und Kindertagesstätten Bildungs- und Orientierungspläne eingeführt. Die Umsetzung der Pläne erfolgte nach sehr unterschiedlichen Ansätzen: „Bildungs- und Lerngeschichten“ \parencite{leu2007bildungs}, „Infans“ \parencite{laewen2011infans} und vielen mehr. Gemeinsam ist all diesen Ansätzen, dass die Kinder beobachtet und entsprechend ihren aktuellen Themen gefördert werden. In der zu evaluierenden Weiterbildung wird den Teilnehmern das EEC-Konzept \parencite{hebenstreit2007early} näher gebracht. Ziele der Weiterbildung sind zum einen Fachwissen über den Ansatz zu gewinnen, zum anderen sollen die Teilnehmer, aber auch Methoden der Umsetzung kennen lernen. Nach der Absolvierung des Blended Learning Kurses und dem Erhalt des Titels „EEC-Berater“ sollen die Teilnehmer auch in der Lage sein, als Multiplikatoren den Ansatz weiterzuvermitteln. Die Weiterbildung erstreckt sich über 12 Monaten innerhalb derer sechs Präsenzmodule (teilnahmepflicht) zu absolvieren sind. Die Weiterbildung hat im November 2015 begonnen, zum Zeitpunkt der Untersuchung waren bereits 2 Module abgeschlossen und die Lernplattform war ca. 14 Wochen in Betrieb. 
+Das schlechte Abschneiden deutscher Kinder bei der PISA-Studie 2001 führte unter anderem dazu, dass in Kindergärten und Kindertagesstätten Bildungs- und Orientierungspläne eingeführt. Die Umsetzung der Pläne erfolgte nach sehr unterschiedlichen Ansätzen: „Bildungs- und Lerngeschichten“ \parencite{leu2007bildungs}, „Infans“ \parencite{laewen2011infans} und vielen mehr. Gemeinsam ist all diesen Ansätzen, dass die Kinder beobachtet,    und entsprechend ihren aktuellen Themen gefördert werden. In der zu evaluierenden Weiterbildung wird den Teilnehmern das EEC-Konzept \parencite{hebenstreit2007early} näher gebracht. Ziele der Weiterbildung sind zum einen Fachwissen über den Ansatz zu gewinnen, zum anderen sollen die Teilnehmer, aber auch Methoden der Umsetzung kennen lernen. Nach der Absolvierung des Blended Learning Kurses und dem Erhalt des Titels „EEC-Berater“ sollen die Teilnehmer auch in der Lage sein, als Multiplikatoren den Ansatz weiterzuvermitteln. Die Weiterbildung erstreckt sich über 12 Monaten innerhalb derer sechs Präsenzmodule (teilnahmepflicht) zu absolvieren sind. Die Weiterbildung hat im November 2015 begonnen, zum Zeitpunkt der Untersuchung waren bereits 2 Module abgeschlossen und die Lernplattform war ca. 14 Wochen in Betrieb. 
 
 ## Aufbau der Lernplattform
 
-Begleitend zu den Präsenzveranstaltung wurde eine auf Moodle basierende Lernplattform eingerichtet. Moodle wurde 2000 von Martin Dougiamas, vor allem als Möglichkeit konstruktivistisches online-Lernen zu ermöglichen, entwickelt \parencite{dougiamas2002interpretive}. Die Plattform ist, entsprechend den Präsenzveranstaltungen, modular aufgebaut. Die Lernplattform beinhaltet zum Einen von Handouts über Präsentationen bis hin zu den Protokollen eine Fülle an Dateien. Zum anderen werden auch Aktivitäten, die zum gemeinsamen Lernen einladen, eingestellt. Darunter fallen Foren, in denen über die Inhalte diskutiert werden oder die gemeinsame Erstellung eines Glossars. Daneben gibt es noch Fotogalerien, Lesezeichen, Lernquiz und allgemeine Informationen. Der Besuch der Lernplattform ist freiwillig - es gibt hier keine verpflichtende Aufgaben. Allerdings werden Ankündigungen, Termine, Dateien nur über die Lernplattform zur Verfügung gestellt, was es wiederum erforderlich macht, sich ab und zu einzuloggen. 
+Begleitend zu den Präsenzveranstaltung wurde eine auf Moodle basierende Lernplattform eingerichtet. Moodle wurde 2000 von Martin Dougiamas, vor allem als Möglichkeit kollaboratives online-Lernen zu ermöglichen, entwickelt \parencite{dougiamas2002interpretive}. Die Plattform ist, entsprechend den Präsenzveranstaltungen, modular aufgebaut. Die Lernplattform beinhaltet zum Einen von Handouts über Präsentationen bis hin zu den Protokollen eine Fülle an Dateien. Zum anderen werden auch Aktivitäten, die zum gemeinsamen Lernen einladen, eingestellt. Darunter fallen Foren, in denen über die Inhalte diskutiert werden oder die gemeinsame Erstellung eines Glossars. Daneben gibt es noch Fotogalerien, Lesezeichen, Lernquiz und allgemeine Informationen. Der Besuch der Lernplattform ist freiwillig - es gibt hier keine verpflichtende Aufgaben. Allerdings werden Ankündigungen, Termine, Dateien nur über die Lernplattform zur Verfügung gestellt, was es wiederum erforderlich macht, sich ab und zu einzuloggen. 
 
 # Methoden
 
@@ -97,18 +100,17 @@ Außerdem wird mittels des Fragebogens noch erhoben, wie häufig und zu welchem 
 
 ## Messinstrument
 
-Für die Messung wird auf der Seite \url{https://www.soscisurvey.de} ein Onlinefragebogen erstellt. Die Teilnehmer bekommen die Einladung per Mail zugeschickt, der Fragebogen ist über einen Zeitraum von zwei Wochen freigeschalten. Die Bearbeitung des Fragebogens dauert etwa 5 Minuten.
+Für die Messung wird auf der Seite \url{https://www.soscisurvey.de} \improvement{sieht blöd aus} ein Onlinefragebogen erstellt. Die Teilnehmer bekommen die Einladung per Mail zugeschickt, der Fragebogen ist über einen Zeitraum von zwei Wochen freigeschalten. Die Bearbeitung des Fragebogens dauert etwa 5 Minuten.
 Der oben beschriebene Fragebogen enthält zu den einzelnen Kompetenzen vier bzw. fünf Items. Die Items werden mit einer fünfstufigen Likertskala (1 = trifft nicht zu; 5 = trifft vollständig zu) abgefragt. 
 
 - Methodenkompetenz: besteht aus 4 Items (MK1, MK2, MK3, MK4)
 - Fachkompetenz: besteht aus 5 Items (FK1,FK2,FK3,FK4,FK5)
 - Personalkompetenz: besteht aus 5 Items (PK1,PK2,PK3,PK4,PK5)
 - Kommunikationskompetenz: besteht aus 5 Items (KK1,KK2,KK3,KK4,KK5)
-- 
- Insgesamt besteht der Fragebogen aus 26 Items: Mit 18 Items werden die Kompetenzen abgefragt und mit 8 Items das Nutzungsverhalten
-Eine ausführliche Zusammenstellung der Items, mit Indikatoren und Skalierung findet sich in \improvement{~ref{itemtabelle}}. 
 
-Für die statistische Auswertung werden die Summenscores der jeweiligen Items operationalisiert. Diese werden dann entsprechend einer intervallskalierten Skala behandelt. Dieses Vorgehen ist kritisch zu betrachten, da eine Rating-Skala streng genommen nur eine Ordinalskala ist. Die Intervallskala setzt voraus, dass die Unterschiede zwischen den Stufen, wie zum Beispiel bei einer Temperaturskala, immer gleich groß sind. Ob dies für eine Ratingskala zutrifft darf hinterfragt werden, da es aber übliche Praxis ist, solche Ratingskalen intervallskaliert zu behandeln, wird dies auch für diese Arbeit so übernommen \parencite[65]{Sedlmeier2013}. 
+ Insgesamt besteht der Fragebogen aus 26 Items: Mit 18 Items werden die Kompetenzen abgefragt und mit 8 Items das Nutzungsverhalten
+Eine ausführliche Zusammenstellung der Items, mit Indikatoren und Skalierung findet sich in Anhang \ref{sec:item}
+Für die statistische Auswertung werden die Summenscores der jeweiligen Items verwendet. Diese werden dann entsprechend einer intervallskalierten Skala behandelt. Dieses Vorgehen ist kritisch zu betrachten, da eine Rating-Skala, wie sie hier vorliegt, streng genommen nur eine Ordinalskala ist. Die Intervallskala setzt voraus, dass die Unterschiede zwischen den Stufen, wie zum Beispiel bei einer Temperaturskala, immer gleich groß sind. Ob dies für eine Ratingskala zutrifft darf hinterfragt werden, da es aber übliche Praxis ist, solche Ratingskalen intervallskaliert zu behandeln, wird dies auch hier so übernommen \parencite[65]{Sedlmeier2013}. 
 
 
 Für eine quantitative Erhebung ist es von entscheidender Bedeutung, dass die Gütekriterien: Objektivität, Validität und Reliabilität eingehalten werden \parencite[104]{Hader2015}.
@@ -116,7 +118,7 @@ Die Objektivität wird in Durchführungs- Auswertungs- und Interprätationsobjek
 
 Die Validität (Gültigkeit der Aussagen) orientiert hier sich an der Diskussion des zugrundeliegenden, bereits erwähnten Fragebogens \parencite{Braun2008}. Da es noch wenig Untersuchungen zur Validität bei Selbsteinschätzung zu Kompetenzen kommt ist die Überprüfung schwierig. Da aber z.B. bei Untersuchungen zu selbsteingeschätzten Persönlichkeitsmerkmalen die Validität teilweise sehr hoch ist, wird davon ausgegangen, „dass Selbstauskünfte einen validen Indikator für Kompetenzerwerb darstellen.“ \parencite[32]{Braun2008}
 
-Der Fragebogen wurde vor der Verteilung an die Teilnehmer einem Pretest unterworfen. Die Reliabilität (Genauigkeit mit der ein Merkmal gemessen wird \parencite[5]{rammstedt2004bestimmung}) wurde mittels dem Cronbachs alpha Test überprüft wurde \parencite{Wassa}. Es wurden 5 Fragebögen ausgefüllt und die Ergebnisse für die einzelnen Kompetenzen lagen zwischen 0.72 und 0.98., was als gut bis sehr gut anzusehen ist (~ref(cronbach)).
+Der Fragebogen wurde vor der Verteilung an die Teilnehmer einem Pretest unterworfen. Die Reliabilität (Genauigkeit mit der ein Merkmal gemessen wird \parencite[5]{rammstedt2004bestimmung}) wurde mittels dem Cronbachs alpha Test überprüft \parencite{Wassa}. Es wurden 5 Fragebögen ausgefüllt und die Ergebnisse für die einzelnen Kompetenzen lagen zwischen 0.72 und 0.98., was als gut bis sehr gut anzusehen ist (Anhang \ref{sec:cronbach}).
 
 
 
@@ -126,7 +128,7 @@ Es wurden 12 Fragebögen ausgefüllt und ausgewertet.
 
 ## Univariate Auswertung
 
-Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus der Summe aller Items einer Kategorie zusammen. Die Werte wurden klassifiziert und entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bzw. keine bis sehr hohe Nutzung bewertet werden (Tabelle \ref{tab:klassen}.
+Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus der Summe aller Items einer Kategorie zusammen. Die Werte wurden klassifiziert und entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bzw. keine bis sehr hohe Nutzung bewertet werden (Anhang  \ref{sec:klasse}).
 Für die einzelnen Kompetenzen, die Geasmatkompetenz und das Nutzungsverhalten werden die Häufigkeitsverteilungen, als Histogramm und in tabellarischer Form mit absoluten und prozentalen Werten dargestellt. Die dargestellten Lage- und Streumaße umfassen die zentrale Tendenz in Form des Mittelwertes, des Medians und des Modus\footnote{Kommen mehrere Modalwerte vor, werden sie durch Kommata voneinander getrennt dargestellt} sowie die Streuung als Standardabweichung und Varianz. 
  
 ### Fachkompetenz
@@ -162,7 +164,7 @@ Für die einzelnen Kompetenzen, die Geasmatkompetenz und das Nutzungsverhalten w
 \label{FK}
 \end{figure}
 
-Die Lagemaße  der Fachkompetenz (Tabelle \ref{tab:lFK}) ergeben einen Mittelwert von ca. 21. Dieser sehr hohe Wert entspricht auch dem Median und dem Modus, was auf eine gleichmäßige Verteilung der Daten schließen lässt Der niedrigste Wert lag bei 14 der höchste Wert bei 25. 
+Die Lagemaße  der Fachkompetenz (Tabelle \ref{tab:lFK}) ergeben einen Mittelwert von ca. 21. Dieser sehr hohe Wert entspricht auch dem Median und dem Modus, was auf eine gleichmäßige Verteilung der Daten schließen lässt. Der niedrigste Wert lag bei 14 der höchste Wert bei 25. 
 
 
 \begin{table}[H]
@@ -213,7 +215,7 @@ Auch bei der Methodenkompetenz, siehe Abbildung \ref{fig:MK} wird mindestens ein
 \end{figure}
 
 
-Wie Tabelle \ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert und Median liegen bei etwa 12.5, was gerade noch der Klasse 4, also hohem Kompetenzzuwachs entspricht. 
+Wie Tabelle \ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert und Median liegen bei etwa 12.5, was gerade noch der Klasse 4, also hohem Kompetenzzuwachs entspricht. Der niedrigste Wert lag bei 10, der höchste Wert bei 17.
 
 
 
@@ -289,6 +291,8 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 
 ### Kommunikationskompetenz
 
+Der Zuwachs der Kommunikationskompetenz wird von einem Teilnehmer als gering eingeschätzt, von den übrigen ca 90\% als mindestens Mittel Etwa 50\% der Teilnehmer schätzen ihren Kompetenzzuwachs als hoch bis sehr hoch ein (Abbildung \ref{fig:KK})
+
 \begin{figure}[H]
 \begin{minipage}{.4\linewidth}
 \includegraphics[width=0.8\linewidth]{Anhang/KKHistnn.png}
@@ -320,7 +324,7 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 
 
 
-Der Zuwachs an Kommunikationskompetenz wurde von den Teilnehmern, verhältnismäßig gering eingeschätzt. Der Mittelwert beträgt 13, der Modalwert 12, damit kann der Zuwachs als gerade noch hoch bewertet werden.
+Der Zuwachs an Kommunikationskompetenz wurde von den Teilnehmern, verhältnismäßig gering eingeschätzt. Der Mittelwert beträgt 13, der Modalwert 12, damit kann der Zuwachs aber dennoch als gerade noch hoch bewertet werden. Der niedrigste Wert ist 8, der höchste 18 (Tabelle \ref{tab:lKK})
 
 
 
@@ -341,7 +345,7 @@ Der Zuwachs an Kommunikationskompetenz wurde von den Teilnehmern, verhältnismä
 
 ### Handlungskompetenz
 
-Für die Darstellung der Handlungskompetenzen werden die Werte der einzelnen Kompetenzen addiert. Über 90\% der Teilnehmer schätzen ihren Zuwachs an Handlungskompetenz als mindestens hoch ein, davon 25\% sogar als sehr hoch. Ein Teilnehmer gibt lediglich einen mittleren Zuwachs an (\ref{fig:HK})
+Für die Darstellung der Handlungskompetenzen werden die Werte der einzelnen Kompetenzen addiert. Über 90\% der Teilnehmer schätzen ihren Zuwachs an Handlungskompetenz als mindestens hoch ein, davon 25\% sogar als sehr hoch. Ein Teilnehmer gibt lediglich einen mittleren Zuwachs an (Abbildung \ref{fig:HK})
 
 \begin{figure}[H]
 \begin{minipage}{.4\linewidth}
@@ -372,7 +376,7 @@ Für die Darstellung der Handlungskompetenzen werden die Werte der einzelnen Kom
 \label{fig:HK}
 \end{figure}
 
-
+Der Mittelwert des Zuwachses an Handlungskompetenz beträgt etwa 65, ebenso wie der Median. Es gibt zwei Modalwerte 63 und 75. Der niegrigste Wert lag bei 44 der höchste Wert bei 75 (Tabelle \ref{lHK})
 
 
 \begin{table}[H]
@@ -389,12 +393,13 @@ Für die Darstellung der Handlungskompetenzen werden die Werte der einzelnen Kom
 \end{table}
 
 
-Die dicht zusammenliegenden Werte der zentralen Tendenz deuten darauf hin, dass Verteilung der Werte gleichmäßig ist. Die Streuung der Werte um den Mittelwert ist bei der Kommunikationskompetenz am größten und bei der Methodenkompetenz am kleinsten. Der Zuwachs an Fachkompetenz wurde im Mittel als sehr hoch eingeschätzt, der Zuwachs der anderen Kompetenzen als hoch. 
+
+Die dicht zusammenliegenden\change{hier nochmal drüber} Werte der zentralen Tendenz deuten darauf hin, dass die Verteilung der Werte gleichmäßig ist. Die Streuung der Werte um den Mittelwert ist bei der Kommunikationskompetenz am größten und bei der Methodenkompetenz am kleinsten. Der Zuwachs an Fachkompetenz wurde im Mittel als sehr hoch eingeschätzt, der Zuwachs der anderen Kompetenzen als hoch. 
 
 
 ### Nutzungsverhalten
 
-Beim Nutzungsverhalten wird sowohl die Intensität, als auch die Art der Nutzung abgefragt. Es gibt zum Nutzungsverhalten 8 Items, die jeweils mit der Angabe 0-1, 2-4, 5-7, 8-10 oder > 10 beantwortet werden können. Die Plattform wurde von 5 Teilnehmern wenig, von 7 Teilnehmern etwas mehr genutzt. Die Klassen keine Nutzung, häufige und sehr häufige Nutzung kommen nicht vor (Abbildung \ref{fig:NV}. 
+Beim Nutzungsverhalten wird sowohl die Intensität, als auch die Art der Nutzung abgefragt. Es gibt zum Nutzungsverhalten 8 Items, die jeweils mit der Angabe der Häufigkeit 0-1, 2-4, 5-7, 8-10 oder > 10 mal beantwortet werden können. Die Plattform wurde von 5 Teilnehmern wenig, von 7 Teilnehmern etwas mehr genutzt. Die Klassen keine Nutzung, häufige und sehr häufige Nutzung kommen nicht vor (Abbildung \ref{fig:NV}). 
 
 \begin{figure}[H]
 \begin{minipage}{.4\linewidth}
@@ -425,7 +430,7 @@ Beim Nutzungsverhalten wird sowohl die Intensität, als auch die Art der Nutzung
 \label{fig:NV}
 \end{figure}
 
-Die Lernplattform wurde nur wenig genutzt (Tabelle \ref{fig:lNV}): Durchschnittlich bewegt sich die Nutzung des digitalen Angebotes mit 17.55 in einem mittleren Bereich. Die Bimodulare Verteilung (14 und 19) weist auf nicht normalverteilte Daten hin. Die niedrigsten und höchsten Werte liegen zwischen 9 und 21. 
+Die Lernplattform wurde nur wenig genutzt (Tabelle \ref{fig:NV}): Durchschnittlich bewegt sich die Nutzung des digitalen Angebotes mit 17.55 in einem mittleren Bereich. Die Bimodulare Verteilung (14 und 19) weist auf nicht normalverteilte Daten hin. Die niedrigsten und höchsten Werte liegen zwischen 9 und 21. 
 
 
 \begin{table}[H]
@@ -447,7 +452,7 @@ Die Lernplattform wurde nur wenig genutzt (Tabelle \ref{fig:lNV}): Durchschnittl
 
 ### Handlungskompetenz und Nutzungsverhalten allgemein
 
-Es soll nun weiter untersucht wurde welchen Einfluss die Nutzung der Lernplattform auf dem Kompetenzzuwachs hat. Dazu werden der Gesamtkompetenzzuwachs (abhängige Variable) und die Nutzungshäufigkeit (unabhängige Variable) in einem Streudiagramm gegeneinander aufgetragen. Ob es eine Abhängigkeit zwischen den Variablen gibt wird mit dem Spearmans rho Test überprüft. Dieser Test wird gewählt, da er für kleine, nichtnormalverteilte Datenmengen am ehesten geeignet ist. 
+Es soll nun weiter untersucht wurde welchen Einfluss die Nutzung der Lernplattform auf dem Kompetenzzuwachs hat. Dazu werden der Gesamtkompetenzzuwachs (abhängige Variable) und die Nutzungshäufigkeit (unabhängige Variable) in einem Streudiagramm gegeneinander aufgetragen. Ob es eine Abhängigkeit zwischen den Variablen gibt wird mit dem Spearmans rho Test überprüft. Dieser Test wird gewählt, da er für kleine, nichtnormalverteilte Datenmengen am ehesten geeignet ist. \improvement{hier noch ein Zitat}
 
 \begin{figure}[H]
 \centering
@@ -456,28 +461,29 @@ Es soll nun weiter untersucht wurde welchen Einfluss die Nutzung der Lernplattfo
 \label{fig:spear}
 \end{figure}
 
-Im Streudiagramm \(Abbildung \ref{fig:spear}) wird deutlich, dass es keine Abhängigkeit zwischen den Variablen gibt. Der rho-Wert 0,08 bei einem p-Wert von 0,78 zeigt ebenfalls, keinerlei Abhängigkeit gibt.
+Im Streudiagramm \(Abbildung \ref{fig:spear}) wird deutlich, dass es keine Abhängigkeit zwischen den Variablen gibt. Der rho-Wert 0,08 bei einem p-Wert von 0,78 zeigt ebenfalls, dass es keinen Zusammenhang gibt.
 
 
 ### Handlungskompetenz und Nutzungsart
 
 Mit dem Fragebogen wurde zum einen die Nutzungsintensität und zum anderen die Art der Nutzung abgefragt. Dabei gibt es passive Formen der Nutzung: Termininformation, Beiträge lesen, Fotos anschauen, Dateien nutzen und aktive Formen der Nutzung: Beiträge in Forum und Glossar verfassen, am Lernquiz teilnehmen.
-Die Aufteilung des Nutzungsverhalten in aktive (Item 1-5) und passive Nutzung (6-8) zeigen auch getrennt betrachtet keine Abhängigkeit zum Zuwachs an Handlungskompetenz (Abbildung \ref{saktiv} und \ref{spassiv}).
+Die Aufteilung des Nutzungsverhalten in aktive (Item 1-5) und passive Nutzung (6-8) zeigen auch getrennt betrachtet keine Abhängigkeit zum Zuwachs an Handlungskompetenz (Anhang \ref{sec:aktiv}).
 Auf eine weiter Zerlegung der Daten, wird aufgrund der sehr kleinen Datenmenge verzichtet. Das heißt die Abhängigkeiten auf die unterschiedlichen Kompetenzen finden hier keine Berücksichtigung.
 
 
 # Diskussion 
 
-Hypothese 1: Die Teilnahme an der Weiterbildungsmaßnahme führt zu einem Zuwachs an selbsteingeschätzter Handlungskompetenz, d.h. die Nullhypothese wird verworfen.
+Hypothese 1: Die Teilnahme an der Weiterbildungsmaßnahme führt deutlich zu einem Zuwachs an selbsteingeschätzter Handlungskompetenz, d.h. die Nullhypothese wird verworfen.
 Hypothese 2: Die Nutzungsintensität der Lernplattform hat keinen Einfluss auf den Kompetenzzuwachs, d.h. die Nullhypothese wird angenommen
 Zusammenfassend lässt sich die vorangestellte Forscherfrage wie folgt beantworten: 
-Der Blended Learning Kurs „Umsetzung des Bildungs- und Orientierungsplans in der Kindertagesstätte mit dem Early Excellence-Konzept" \change{Unbedingt ändern} fördert den Zuwachs der Kompetenzen unabhängig von der Nutzung der Lernplattform.  
-Am höchsten wurde, wie zu Erwarten der Zuwachs an Fachkompetenz eingeschätzt, denn es wurde viel Fachwissen „gelehrt“. Der Zuwachs an Methoden-, Personal- und Kommunikationskompetenz ist am Vergleich dazu geringer, da hier auch schon individuell mehr an Vorwissen vorhanden ist.
+Der Blended Learning Kurs „Umsetzung des Bildungs- und Orientierungsplans in der Kindertagesstätte mit dem Early Excellence-Konzept" fördert den Zuwachs der Kompetenzen unabhängig von der Nutzung der Lernplattform.  
+Am höchsten wurde, wie zu Erwarten der Zuwachs an Fachkompetenz eingeschätzt, denn es wurde viel Fachwissen „gelehrt“. Der Zuwachs an Methoden-, Personal- und Kommunikationskompetenz ist im Vergleich dazu geringer, da hier auch schon individuell mehr an Vorwissen vorhanden ist.
 
-Wie die Ergebnisse zeigen wurde die Lernplattform nicht sehr intensiv genutzt und es ist kein Einfluss sichtbar. Allerdings muss hier angemerkt werden, dass die Form des digitalen Lernens für viele Teilnehmer eine sehr neue Erfahrung war und der selbstverständliche Umgang damit noch nicht gegeben ist. Ein weiterer wichtiger Aspekt ist der Umgang mit Zeit: während die Präsenztage gutgeschrieben werden, erstreckt sich die Nutzung der Lernplattform auf Freizeit. Auch wenn es sich hier in Zahlen nicht ausdrücken lässt, so lassen die Kommentare im freien Textfeld den Schluss zu, dass die Lernplattform einen gleich wie gerichteten, positiven Effekt auf den Nutzer hat: „Ich finde die Lernplattform super! Auch die schnelle Verbindung zu allen Teilnehmern finde ich gut. Sie ist wirklich eine große Hilfe, weil man alles auf einen Blick und sehr übersichtlich hat.“
+Wie die Ergebnisse zeigen, wurde die Lernplattform nicht sehr intensiv genutzt und es ist kein Einfluss auf den Zuwachs sichtbar. Allerdings muss hier angemerkt werden, dass die Form des digitalen Lernens für viele Teilnehmer eine sehr neue Erfahrung war und der selbstverständliche Umgang damit noch nicht gegeben ist. Ein weiterer wichtiger Aspekt ist der Umgang mit Zeit: während die Präsenztage gutgeschrieben werden, erstreckt sich die Nutzung der Lernplattform auf Freizeit. Auch wenn es sich hier in Zahlen nicht ausdrücken lässt, so lassen die Kommentare im freien Textfeld den Schluss zu, dass die Lernplattform einen gleich wie gerichteten, positiven Effekt auf den Nutzer hat: „Ich finde die Lernplattform super! Auch die schnelle Verbindung zu allen Teilnehmern finde ich gut. Sie ist wirklich eine große Hilfe, weil man alles auf einen Blick und sehr übersichtlich hat.“
 
 # Fazit
 
-Die vorliegende Forschungsarbeit hatte das Ziel, eine berufliche Weiterbildungsmaßnahme im Blended Learning Format zu evaluieren. Inhalte der Weiterbildung ist das  Early Excellence-Konzept und seine Umsetzung in der Kindertagesstätten. Da es in der Erwachsenenbildung allgemein, vielmehr um das Erreichen von Handlungskompetenz, als um die bloße Vermehrung von Wissen geht, wurde der Versuch unternommen den Zuwachs an Handlungskompetenz zu messen. Dies wurde entsprechend der Literatur mittels eines Fragebogens zur Selbsteinschätzung umgesetzt. Die Ergebnisse zeigen, dass die Teilnehmer den Effekt auf den Zuwachs an unterschiedlichen Kompetenzen als hoch einschätzen. Die Ergebnisse zeigen allerdings auch, dass die Nutzung der Lernplattform keinen Einfluss auf dieses Zuwachs zu haben scheint. 
-Die Ergebnisse dieser Arbeit sind allerdings erheblichen Einschränkungen unterworfen. Die Datenmenge ist mit n=12 extrem klein und die Ergebnisse sind daher nicht übertragbar oder gar zu verallgemeinern. Um die digitale Nutzung zu Intensivieren ist eventuell mehr Zeit erforderlich, da die Auseinandersetzung mit der Technik nicht von allen so schnell geleistet werden kann. Abhilfe könnte hier eine noch engere Verknüpfung von Präsenzphasen und digitalem Lernen schaffen: Beispielsweise könnte die Lernplattform auch während den Präsenzphasen genutzt werden oder die Präsenzzeiten zugunsten der digitalen Lernzeit verkürzt werden. Denn besonderes in beruflichen Weiterbildungen, wo Zeit ein sehr knappes Gut ist, kann das zeit- und ortsunabhängige Lernen, dass durch digitale Lernplattformen ermöglicht wird, ein großer Zugewinn sein. 
-
+Die vorliegende Forschungsarbeit hat das Ziel, eine berufliche Weiterbildungsmaßnahme im Blended Learning Format zu evaluieren. Inhalt der Weiterbildung ist das  Early Excellence-Konzept und seine Umsetzung in der Kindertagesstätte. Da es in der Erwachsenenbildung allgemein, vielmehr um das Erreichen von Handlungskompetenz, als um die bloße Vermehrung von Wissen geht, wurde der Versuch unternommen den Zuwachs an Handlungskompetenz zu messen. Dies wurde entsprechend der Literatur mittels eines Fragebogens zur Selbsteinschätzung umgesetzt. Die Ergebnisse zeigen, dass die Teilnehmer den Effekt auf den Zuwachs an unterschiedlichen Kompetenzen als hoch einschätzen. Die Ergebnisse zeigen allerdings auch, dass die Nutzung der Lernplattform keinen Einfluss auf dieses Zuwachs zu haben scheint. 
+Die Ergebnisse dieser Arbeit sind allerdings erheblichen Einschränkungen unterworfen. Die Datenmenge ist mit n=12 extrem klein und die Ergebnisse sind daher nicht übertragbar oder gar zu verallgemeinern. Um die digitale Nutzung zu intensivieren ist eventuell mehr Zeit erforderlich, da die Auseinandersetzung mit der Technik nicht von allen so schnell geleistet werden kann. Abhilfe könnte hier eine noch engere Verknüpfung von Präsenzphasen und digitalem Lernen schaffen: Beispielsweise könnte die Lernplattform auch während den Präsenzphasen genutzt werden oder die Präsenzzeiten zugunsten der digitalen Lernzeit verkürzt werden. Denn besonderes in beruflichen Weiterbildungen, wo Zeit ein sehr knappes Gut ist, kann das zeit- und ortsunabhängige Lernen, dass durch digitale Lernplattformen ermöglicht wird, ein großer Zugewinn sein. 
+\info{Erklärung nicht vergessen}
+\change{Literaturverzeichnis!}

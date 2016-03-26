@@ -33,7 +33,7 @@
 \begin{flushleft}
 \begin{tabular}{lll}
 \textbf{Studiengang:} & & MA Bildung und Medien: eEducation\\
-& & Modul 2: Anwendungsbezogene Bildungsforschung\\
+& & Modul 2: (Anwendungsbezogene) Bildungsforschung\\
 & & \\
 & & \\
 \textbf{eingereicht von:} & & {Inge Koch-Meinass \\
