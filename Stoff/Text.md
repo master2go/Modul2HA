@@ -3,7 +3,7 @@
 \improvement{Pisa abschneiden machte es erforderlich usw.. Hier Holzkamp konkret} 
 \glqq Das weltweit verfügbare Wissen verdoppelt sich zurzeit alle vier bis fünf Jahre. Der amerikanische Soziologe Richard Sennet (1998) erwartet, dass ein amerikanischer College Student in seinem Berufsleben elf Mal die Stelle wechselt und dreimal die Basis seines Wissens komplett austauscht \parencite[138]{Ehlers2002}.\grqq{}
 Vor diesem Hintergrund kommt der beruflichen Weiterbildung eine immer größere Bedeutung zu, den beruflichen Anforderung gerecht zu werden, erfordert die Bereitschaft zu lebenslangem Lernen. Mit dem Zuwachs an Veränderung in Organisationen und der damit verbundenen Anforderung „am Ball zu bleiben“ gilt es Lernkonzepte zu finden die modernen konstruktivistischen Lerntheorien einerseits und beruflichem Lernen von Erwachsenen andererseits gerecht werden.  Das immer größere Lernpensum, kann nicht ausschließlich in Präsenzveranstaltung gelehrt werden, sondern viel mehr gilt es von Zeit und Ort unabhängige Lernmöglichkeiten zu schaffen. Digitale Lernplattformen leisten hier einen wichtigen Beitrag und können je nach didaktischer Aufbereitung, selbstorganisiertes, konstruktivistisches und damit nachhaltiges Lernen fördern.
-Die vorliegende Arbeit befasst sich mit der Evaluation einer beruflichen Weiterbildung, die als Blended Learning Kurs für FrühpädagogInnen \footnote{Der Begriffe FrühpädagogInnen, schließt alle im Kitabereich tätigen Fachkräfte ein} konzipiert wurde. Inhalt der Weiterbildung ist das kennenlernen und umsetzen können des Early-Excellence Konzept, ein Ansatz mit dem Bildungs- und Orientierungspläne der Bundesländer in den Kindertagesstätten konzeptionell verankert werden können. Mit Hilfe eines standardisierten Fragebogens wird versucht, den durch die Weiterbildung gewonnen, selbst eingeschätzten Zuwachs an Handlungskompetenz zu bestimmen. Es wird einmal das Weiterbildungsangebot insgesamt und zum anderen der Einfluss der digitalen Lernplattform betrachtet.
+Die vorliegende Arbeit befasst sich mit der Evaluation einer beruflichen Weiterbildung, die als Blended Learning Kurs für FrühpädagogInnen \footnote{Der Begriffe FrühpädagogInnen, schließt alle im Kitabereich tätigen Fachkräfte ein} konzipiert wurde. Inhalt der Weiterbildung ist das kennenlernen und umsetzen können des Early-Excellence Konzept (EEC), ein Ansatz mit dem Bildungs- und Orientierungspläne der Bundesländer in den Kindertagesstätten konzeptionell verankert werden können. Mit Hilfe eines standardisierten Fragebogens wird versucht, den durch die Weiterbildung gewonnen, selbst eingeschätzten Zuwachs an Handlungskompetenz zu bestimmen. Es wird einmal das Weiterbildungsangebot insgesamt und zum anderen der Einfluss der digitalen Lernplattform betrachtet.
 
 # Theorierahmen
 Der der Untersuchung zugrundeliegende Theorierahmen umfasst die Themen Erwachsenenbildung im Blended Learning Verfahren und daraus resultierender Zuwachs an Handlungskompetenz.
@@ -62,11 +62,11 @@ Die Handlungskompetenz setzt sich nach @ErpenbeckRosenstiel200305 aus verschiede
 # Operationalisierung
 
 Der nicht direkt messbare Zuwachs an Handlungskompetenz, macht es notwendig Indikatoren zu bilden, die den Lernerfolg abbilden können. Für die einzelnen Kompetenzen muss also gefragt werden, woran man den Zuwachs an dieser erkennen kann. Den Zuwachs an Personalkompetenz kann zum Beispiel über Freude, Interesse, intensive Beschäftigung mit dem Thema usw. erfasst werden. „Ein Indikator ist ein direkt beobachtbarer Sachverhalt, der durch Korrespondenzregeln mit dem nicht direkt beobachtbaren Sachverhalt verknüpft wird \[\ldots\]“ \parencite[85]{Kromrey2009}. Die Korrespondenzregeln beschreiben wie eng die zugrundeliegenden Indikatoren, mit dem tatsächlich zu messenden Sachverhalt korreliert sind. Da es sich im vorliegenden Fall um schlussfolgernde Indikatoren (es wird von nicht direkt beobachtbaren Sachverhalten auf eine bestimmte Merkmalsausprägung geschlossen) handelt, ist der Zusammenhang zwischen Indikator und der zu untersuchenden Kompetenz nicht empirisch überprüfbar, sondern „\[\ldots\] auf den Glauben an die Richtigkeit \[\ldots\]“ \parencite[166]{Kromrey2009} angewiesen.
-Wie bereits beschrieben wird der Erfolg der hier beschriebenen Weiterbildung an selbsteingeschätzten Kompetenzen gemessen. Der vorliegenden Arbeit liegt das Messinstrument von \textcite{Braun2008} zugrunde. Die Autoren haben dieses Instrument entwickelt, um den „subjektiven Erwerb von Kompetenzen durch den Besuch einzelner Lehrveranstaltungen \[messen zu können\]“\parencite[30]{Braun2008a}. Der Berliner Evaluationsinstrument besteht aus 26 Items und drei Filterfragen. Die Fragen zur *Fachkompetenz* versuchen den Kompetenzzustand zu erfassen, z.B.:„Ich kann wichtige Begriffe der Weiterbildung wiedergeben“, während die weniger wissensspezifischen Kompetenzen (*Personal-, Sozial-, und Methodenkompetenz*) explizit den Zuwachs der Kompetenz erfragen, z.B.: „In Folge dieser Weiterbildung, kann ich meine Arbeit besser strukturieren". 
+Wie bereits beschrieben wird der Erfolg der hier beschriebenen Weiterbildung an selbsteingeschätzten Kompetenzen gemessen. Der vorliegenden Arbeit liegt das Messinstrument von \textcite{Braun2008} zugrunde. Die Autoren haben dieses Instrument entwickelt, um den „subjektiven Erwerb von Kompetenzen durch den Besuch einzelner Lehrveranstaltungen \[messen zu können\]“\parencite[30]{Braun2008}. Der Berliner Evaluationsinstrument besteht aus 26 Items und drei Filterfragen. Die Fragen zur *Fachkompetenz* versuchen den Kompetenzzustand zu erfassen, z.B.:„Ich kann wichtige Begriffe der Weiterbildung wiedergeben“, während die weniger wissensspezifischen Kompetenzen (*Personal-, Sozial-, und Methodenkompetenz*) explizit den Zuwachs der Kompetenz erfragen, z.B.: „In Folge dieser Weiterbildung, kann ich meine Arbeit besser strukturieren". 
 
 ## Inhalte der Weiterbildung
 
-Das schlechte Abschneiden deutscher Kinder bei der PISA-Studie 2001 führte unter anderem dazu, dass in Kindergärten und Kindertagesstätten Bildungs- und Orientierungspläne eingeführt. Die Umsetzung der Pläne erfolgte nach sehr unterschiedlichen Ansätzen: „Bildungs- und Lerngeschichten“ \parencite{leu2007bildungs}, „Infans“ \parencite{laewen2011infans} und vielen mehr. In der zu evaluierenden Weiterbildung wird den Teilnehmern das EEC-Konzept \parencite{hebenstreit2007early} näher gebracht. Ziele der Weiterbildung sind zum einen Fachwissen über den Ansatz zu gewinnen, zum anderen sollen die Teilnehmer, aber auch Methoden der Umsetzung kennen lernen. Nach der Absolvierung des Blended Learning Kurses und dem Erhalt des Titels „EEC-Berater“ sollen die Teilnehmer auch in der Lage sein, als Multiplikatoren den Ansatz weiterzuvermitteln. Die Weiterbildung erstreckt sich über 12 Monaten innerhalb derer sechs Präsenzmodule (teilnahmepflicht) zu absolvieren sind.   
+Das schlechte Abschneiden deutscher Kinder bei der PISA-Studie 2001 führte unter anderem dazu, dass in Kindergärten und Kindertagesstätten Bildungs- und Orientierungspläne eingeführt. Die Umsetzung der Pläne erfolgte nach sehr unterschiedlichen Ansätzen: „Bildungs- und Lerngeschichten“ \parencite{leu2007bildungs}, „Infans“ \parencite{laewen2011infans} und vielen mehr. Gemeinsam ist all diesen Ansätzen, dass die Kinder beobachtet und entsprechend ihren aktuellen Themen gefördert werden. In der zu evaluierenden Weiterbildung wird den Teilnehmern das EEC-Konzept \parencite{hebenstreit2007early} näher gebracht. Ziele der Weiterbildung sind zum einen Fachwissen über den Ansatz zu gewinnen, zum anderen sollen die Teilnehmer, aber auch Methoden der Umsetzung kennen lernen. Nach der Absolvierung des Blended Learning Kurses und dem Erhalt des Titels „EEC-Berater“ sollen die Teilnehmer auch in der Lage sein, als Multiplikatoren den Ansatz weiterzuvermitteln. Die Weiterbildung erstreckt sich über 12 Monaten innerhalb derer sechs Präsenzmodule (teilnahmepflicht) zu absolvieren sind. Die Weiterbildung hat im November 2015 begonnen, zum Zeitpunkt der Untersuchung waren bereits 2 Module abgeschlossen und die Lernplattform war ca. 14 Wochen in Betrieb. 
 
 ## Aufbau der Lernplattform
 
@@ -75,6 +75,7 @@ Begleitend zu den Präsenzveranstaltung wurde eine auf Moodle basierende Lernpla
 # Methoden
 
 ## Forschungsfrage und Hypothesen
+\label{sec:FF}
 Für die  Arbeit wurde folgende Forschungsfrage aufgestellt: 
 
 \begin{framed}
@@ -119,21 +120,26 @@ Der Fragebogen wurde vor der Verteilung an die Teilnehmer einem Pretest unterwor
 
 
 
-# Ergebnisse
+# Ergebnisse 
 Die Ergebnisse wurden mit dem freien Statistiksoftware R (R - The R Project for Statistical Computing) ausgewertet. Die gewonnen Daten wurden als Textdateien aus dem Onlinetool exportiert und in R eingelesen. Die negativ formulierten Item wurden rekodiert.
-Es wurden 12 Fragebögen ausgefüllt und ausgewertet. Die Auswertung der Daten erfolgt univariat und bivariat. 
-Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus den einzelnen Itembatterien zusammen. Die Fachkompetenz und die Personalkompetenz wurde mit je fünf Items abgefragt. Die Summenwerte wurden in die Klassen 0-5,5-10,10-15,15-20 und 20-25 eingeteilt. Die Methodenkompetenz und die Kommunikationskompetenz wurde mit je vier Items abgefragt und die Ergebnisse wurden wie folgt klassifiziert: 0-4,4-8,8-12,12-16,16-20. Es ergeben sich somit für jede Kompetenz fünf Klassen, die entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bewertet werden. Die deskriptiv Statistik zeigt nachfolgend die Häufigkeiten der Antworten und die Lage- und Streumaße der Einzelkompetenzen, sowie der Gesamtkompetenz.
+Es wurden 12 Fragebögen ausgefüllt und ausgewertet. 
 
-* Fachkompetenz
+## Univariate Auswertung
 
- ~\ref{FK}  zeigt, dass der Zuwachs an Fachkompetenz mit mindestens Mittel eingeschätzt wurde (1 Teilnehmer). 75\% der Teilnehmer schätzen den Zuwachs an Fachkompetenz als sehr hoch ein, zwei Teilnehmer als hoch. Es gibt keine Teilnehmer, die ihren Zuwachs als nicht vorhanden oder sehr gering einschätzen.
+Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus der Summe aller Items einer Kategorie zusammen. Die Werte wurden klassifiziert und entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bzw. keine bis sehr hohe Nutzung bewertet werden (Tabelle \ref{tab:klassen}.
+Für die einzelnen Kompetenzen, die Geasmatkompetenz und das Nutzungsverhalten werden die Häufigkeitsverteilungen, als Histogramm und in tabellarischer Form mit absoluten und prozentalen Werten dargestellt. Die dargestellten Lage- und Streumaße umfassen die zentrale Tendenz in Form des Mittelwertes, des Medians und des Modus\footnote{Kommen mehrere Modalwerte vor, werden sie durch Kommata voneinander getrennt dargestellt} sowie die Streuung als Standardabweichung und Varianz. 
+ 
+### Fachkompetenz
+
+ Abbildung \ref{FK}  zeigt, dass der Zuwachs an Fachkompetenz mit mindestens Mittel eingeschätzt wurde (1 Teilnehmer). 75\% der Teilnehmer schätzen den Zuwachs an Fachkompetenz als sehr hoch ein, zwei Teilnehmer als hoch. Es gibt keine Teilnehmer, die ihren Zuwachs als nicht vorhanden oder sehr gering einschätzen.
 
 \begin{figure}[H]
-\begin{minipage}{.5\linewidth}
+
+\begin{minipage}{.4\linewidth}
 \includegraphics[width=0.8\linewidth]{Anhang/FKHistnn.png}
 
 \end{minipage}
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \centering
 \raisebox{\depth}
 {\begin{tabular}{rrrr}
@@ -150,19 +156,19 @@ Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieb
 
 }
 %\caption{Häufigkeitstabelle: Fachkompetenz}
-\label{tab:defis}
+%\label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Fachkompetenz}
 \label{FK}
 \end{figure}
 
-Die Lagemaße  der Fachkompetenz (~\ref{tab:lFK}) ergeben einen Mittelwert von ca 21. Dieser sehr hohe Wert entspricht auch dem Median und dem Modus. Der niedrigste Wert lag bei 14 der höchste Wert bei 25. 
+Die Lagemaße  der Fachkompetenz (Tabelle \ref{tab:lFK}) ergeben einen Mittelwert von ca. 21. Dieser sehr hohe Wert entspricht auch dem Median und dem Modus, was auf eine gleichmäßige Verteilung der Daten schließen lässt Der niedrigste Wert lag bei 14 der höchste Wert bei 25. 
 
 
 \begin{table}[H]
 \centering
 \caption{Lage- und Streumaße Fachkompetenz}
-\label(tab:lFK)
+\label{tab:lFK}
 \begin{tabular}{rrrrrrrr}
   \hline
   N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
@@ -173,17 +179,17 @@ Die Lagemaße  der Fachkompetenz (~\ref{tab:lFK}) ergeben einen Mittelwert von c
 \end{table}
 
 
-* Methodenkompetenz
+### Methodenkompetenz
 
-Auch bei der Methodenkompetenz, siehe ~\ref{fig:MK} wird mindestens ein mittlerer Zuwachs eingeschätzt (bei 50\% der Teilnehmer). Fünf Teilnehmer schätzen ihren Zuwachs hier als hoch ein, ein Teilnehmer auf sehr hoch.
+Auch bei der Methodenkompetenz, siehe Abbildung \ref{fig:MK} wird mindestens ein mittlerer Zuwachs eingeschätzt (bei 50\% der Teilnehmer). Fünf Teilnehmer schätzen ihren Zuwachs hier als hoch ein, ein Teilnehmer auf sehr hoch.
 
 \begin{figure}[H]
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \includegraphics[width=0.8\linewidth]{Anhang/MKHistnn.png}
 
 
 \end{minipage}
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \centering
 \raisebox{\depth}
 {\begin{tabular}{rrrr}
@@ -207,7 +213,7 @@ Auch bei der Methodenkompetenz, siehe ~\ref{fig:MK} wird mindestens ein mittlere
 \end{figure}
 
 
-Wie Tabelle ~\ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert und Median liegen bei etwa 12,5, was gerade noch der Klasse 4, also hohem Kompetenzzuwachs entspricht. 
+Wie Tabelle \ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert und Median liegen bei etwa 12.5, was gerade noch der Klasse 4, also hohem Kompetenzzuwachs entspricht. 
 
 
 
@@ -229,17 +235,17 @@ Wie Tabelle ~\ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert 
 
 
 
-* Personalkompetenz
+### Personalkompetenz
 
-Der Zuwachs an Personalkompetenz, siehe ~\ref{fig:PK} wurde von etwa zwei Drittel der Teilnehmer als hoch eingeschätzt, von einem Teilnehmer als Mittel und von 3 Teilnehmern als sehr hoch. Es gibt keine Teilnehmer die keinen oder einen geringen personalen Kompetenzzuwachs einschätzen.
+Der Zuwachs an Personalkompetenz, siehe \ref{fig:PK} wurde von etwa zwei Drittel der Teilnehmer als hoch eingeschätzt, von einem Teilnehmer als Mittel und von 3 Teilnehmern als sehr hoch. Es gibt keine Teilnehmer die keinen oder einen geringen personalen Kompetenzzuwachs einschätzen.
 
 \begin{figure}[H]
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \includegraphics[width=0.8\linewidth]{Anhang/PKHistnn.png}
 
-\label{PK}
+%\label{PK}
 \end{minipage}
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \centering
 \raisebox{\depth}
 {\begin{tabular}{rrrr}
@@ -262,7 +268,7 @@ Der Zuwachs an Personalkompetenz, siehe ~\ref{fig:PK} wurde von etwa zwei Dritte
 \label{fig:PK}
 \end{figure}
 
-Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 der höchste Wert 23. Zusammenfassend betrachtet ist auch in dieser Kategorie der selbsteingeschätzte Kompetenzzuwachs als hoch einzustufen. 
+Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 der höchste Wert 23 (Tabelle \ref{tab:lPK}). Zusammenfassend betrachtet ist auch in dieser Kategorie der selbsteingeschätzte Kompetenzzuwachs als hoch einzustufen. 
 
 
 
@@ -281,15 +287,15 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 
 
 
-* Kommunikationskompetenz
+### Kommunikationskompetenz
 
 \begin{figure}[H]
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \includegraphics[width=0.8\linewidth]{Anhang/KKHistnn.png}
 
 \label{pic:aufbau}
 \end{minipage}
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \centering
 \raisebox{\depth}
 {\begin{tabular}{rrrr}
@@ -309,12 +315,12 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 \label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Kommunikationskompetenz}
-\
+\label{fig:KK}
 \end{figure}
 
 
 
-
+Der Zuwachs an Kommunikationskompetenz wurde von den Teilnehmern, verhältnismäßig gering eingeschätzt. Der Mittelwert beträgt 13, der Modalwert 12, damit kann der Zuwachs als gerade noch hoch bewertet werden.
 
 
 
@@ -322,6 +328,8 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 
 \begin{table}[H]
 \centering
+\caption{Lage- und Streumaße: Kommunikationskompetenz}
+\label{tab:lKK}
 \begin{tabular}{rrrrrrrr}
   \hline
   N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
@@ -331,61 +339,17 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 \end{tabular}
 \end{table}
 
+### Handlungskompetenz
 
-
-* Nutzungsverhalten
-
-\begin{figure}[H]
-\begin{minipage}{.5\linewidth}
-\includegraphics[width=0.8\linewidth]{Anhang/NVHistnn.png}
-
-\label{pic:aufbau}
-\end{minipage}
-\begin{minipage}{.5\linewidth}
-\centering
-\raisebox{\depth}
-{\begin{tabular}{rrrr}
-  \hline
- & absolut & Prozent & kumuliert \\ 
-  \hline
-(0,8] & 0.00 & 0.00 & 0.00 \\ 
-  (8,16] & 5.00 & 41.67 & 41.67 \\ 
-  (16,24] & 7.00 & 58.33 & 100.00 \\ 
-  (24,32] & 0.00 & 0.00 & 100.00 \\ 
-  (32,40] & 0.00 & 0.00 & 100.00 \\ 
-   \hline
-\end{tabular}
-
-}
-%\caption{Häufigkeitstabelle: Fachkompetenz}
-\label{tab:defis}
-\end{minipage}
-\caption{Histogramm und Häufigkeitstabelle des Nutzungsverhaltens}
-\end{figure}
-
-
-
-
-\begin{table}[H]
-\centering
-\begin{tabular}{rrrrrrrr}
-  \hline
-  N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
-  \hline
- 12.00 & 9.00 & 21.00 & 16.42 & 17.50 & 14,19 & 3.32 & 10.99 \\     
-   \hline
-\end{tabular}
-\end{table}
-
-* Handlungskompetenz
+Für die Darstellung der Handlungskompetenzen werden die Werte der einzelnen Kompetenzen addiert. Über 90\% der Teilnehmer schätzen ihren Zuwachs an Handlungskompetenz als mindestens hoch ein, davon 25\% sogar als sehr hoch. Ein Teilnehmer gibt lediglich einen mittleren Zuwachs an (\ref{fig:HK})
 
 \begin{figure}[H]
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \includegraphics[width=0.8\linewidth]{Anhang/HKHistnn.png}
 
 \label{pic:aufbau}
 \end{minipage}
-\begin{minipage}{.5\linewidth}
+\begin{minipage}{.4\linewidth}
 \centering
 \raisebox{\depth}
 {\begin{tabular}{rrrr}
@@ -405,6 +369,7 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 \label{tab:defis}
 \end{minipage}
 \caption{Histogramm und Häufigkeitstabelle der Handlungskompetenz}
+\label{fig:HK}
 \end{figure}
 
 
@@ -413,6 +378,7 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 \begin{table}[H]
 \centering
 \caption{Lage- und Streumaße der Handlungskompetenz}
+\label{lHK}
 \begin{tabular}{rrrrrrrr}
   \hline
   N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
@@ -423,24 +389,95 @@ Mittelwert, Median und Modalwert liegen bei 19, der kleinste Wert beträgt 11 de
 \end{table}
 
 
-* Handlungskompetenz und Nutzungsverhalten
+Die dicht zusammenliegenden Werte der zentralen Tendenz deuten darauf hin, dass Verteilung der Werte gleichmäßig ist. Die Streuung der Werte um den Mittelwert ist bei der Kommunikationskompetenz am größten und bei der Methodenkompetenz am kleinsten. Der Zuwachs an Fachkompetenz wurde im Mittel als sehr hoch eingeschätzt, der Zuwachs der anderen Kompetenzen als hoch. 
+
+
+### Nutzungsverhalten
+
+Beim Nutzungsverhalten wird sowohl die Intensität, als auch die Art der Nutzung abgefragt. Es gibt zum Nutzungsverhalten 8 Items, die jeweils mit der Angabe 0-1, 2-4, 5-7, 8-10 oder > 10 beantwortet werden können. Die Plattform wurde von 5 Teilnehmern wenig, von 7 Teilnehmern etwas mehr genutzt. Die Klassen keine Nutzung, häufige und sehr häufige Nutzung kommen nicht vor (Abbildung \ref{fig:NV}. 
+
+\begin{figure}[H]
+\begin{minipage}{.4\linewidth}
+\includegraphics[width=0.8\linewidth]{Anhang/NVHistnn.png}
+
+\label{pic:aufbau}
+\end{minipage}
+\begin{minipage}{.4\linewidth}
+\centering
+\raisebox{\depth}
+{\begin{tabular}{rrrr}
+  \hline
+ & absolut & Prozent & kumuliert \\ 
+  \hline
+(0,8] & 0.00 & 0.00 & 0.00 \\ 
+  (8,16] & 5.00 & 41.67 & 41.67 \\ 
+  (16,24] & 7.00 & 58.33 & 100.00 \\ 
+  (24,32] & 0.00 & 0.00 & 100.00 \\ 
+  (32,40] & 0.00 & 0.00 & 100.00 \\ 
+   \hline
+\end{tabular}
+
+}
+%\caption{Häufigkeitstabelle: Fachkompetenz}
+\label{tab:defis}
+\end{minipage}
+\caption{Histogramm und Häufigkeitstabelle des Nutzungsverhaltens}
+\label{fig:NV}
+\end{figure}
+
+Die Lernplattform wurde nur wenig genutzt (Tabelle \ref{fig:lNV}): Durchschnittlich bewegt sich die Nutzung des digitalen Angebotes mit 17.55 in einem mittleren Bereich. Die Bimodulare Verteilung (14 und 19) weist auf nicht normalverteilte Daten hin. Die niedrigsten und höchsten Werte liegen zwischen 9 und 21. 
+
 
 \begin{table}[H]
 \centering
-\caption{Gesamtkompetenz und Nutzungsverhalten}
-\begin{tabular}{rr}
+\caption{Lage- und Streumaße: Nutzungsverhalten}
+\label{tab:NV}
+\begin{tabular}{rrrrrrrr}
   \hline
- Parameter & Mittelwerte\\
+  N & Minimum & Maximum & Mittelwert & Median & Modus & SD & Varianz \\
   \hline
-Gesamtscore.Kompetenzen & 65.58 \\
-  Mittelwert.Kompetenzen & 3.60 \\
-  Gesamtscore.Nutzungsverhalten & 16.42 \\
-  Mittelwert.Nutzungsverhalten & 2.05 \\
-  Gesamtscore.passive.Nutzung & 10.17 \\
-  Mittelwert.passive.Nutzung & 2.54 \\
-  Gesamtscore.aktive.Nutzung & 6.25 \\
-  Mittelwert.aktive.Nutzung & 1.56 \\
+ 12.00 & 9.00 & 21.00 & 16.42 & 17.50 & 14,19 & 3.32 & 10.99 \\     
    \hline
 \end{tabular}
 \end{table}
-\pagebreak
+
+
+
+## Bivariate Auswertung
+
+### Handlungskompetenz und Nutzungsverhalten allgemein
+
+Es soll nun weiter untersucht wurde welchen Einfluss die Nutzung der Lernplattform auf dem Kompetenzzuwachs hat. Dazu werden der Gesamtkompetenzzuwachs (abhängige Variable) und die Nutzungshäufigkeit (unabhängige Variable) in einem Streudiagramm gegeneinander aufgetragen. Ob es eine Abhängigkeit zwischen den Variablen gibt wird mit dem Spearmans rho Test überprüft. Dieser Test wird gewählt, da er für kleine, nichtnormalverteilte Datenmengen am ehesten geeignet ist. 
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.33\textwidth]{Anhang/Spearman.png}
+\caption{Kompetenzzuwachs und Nutzung, mit Ergebnis von Spearman rho}
+\label{fig:spear}
+\end{figure}
+
+Im Streudiagramm \(Abbildung \ref{fig:spear}) wird deutlich, dass es keine Abhängigkeit zwischen den Variablen gibt. Der rho-Wert 0,08 bei einem p-Wert von 0,78 zeigt ebenfalls, keinerlei Abhängigkeit gibt.
+
+
+### Handlungskompetenz und Nutzungsart
+
+Mit dem Fragebogen wurde zum einen die Nutzungsintensität und zum anderen die Art der Nutzung abgefragt. Dabei gibt es passive Formen der Nutzung: Termininformation, Beiträge lesen, Fotos anschauen, Dateien nutzen und aktive Formen der Nutzung: Beiträge in Forum und Glossar verfassen, am Lernquiz teilnehmen.
+Die Aufteilung des Nutzungsverhalten in aktive (Item 1-5) und passive Nutzung (6-8) zeigen auch getrennt betrachtet keine Abhängigkeit zum Zuwachs an Handlungskompetenz (Abbildung \ref{saktiv} und \ref{spassiv}).
+Auf eine weiter Zerlegung der Daten, wird aufgrund der sehr kleinen Datenmenge verzichtet. Das heißt die Abhängigkeiten auf die unterschiedlichen Kompetenzen finden hier keine Berücksichtigung.
+
+
+# Diskussion 
+
+Hypothese 1: Die Teilnahme an der Weiterbildungsmaßnahme führt zu einem Zuwachs an selbsteingeschätzter Handlungskompetenz, d.h. die Nullhypothese wird verworfen.
+Hypothese 2: Die Nutzungsintensität der Lernplattform hat keinen Einfluss auf den Kompetenzzuwachs, d.h. die Nullhypothese wird angenommen
+Zusammenfassend lässt sich die vorangestellte Forscherfrage wie folgt beantworten: 
+Der Blended Learning Kurs „Umsetzung des Bildungs- und Orientierungsplans in der Kindertagesstätte mit dem Early Excellence-Konzept" \change{Unbedingt ändern} fördert den Zuwachs der Kompetenzen unabhängig von der Nutzung der Lernplattform.  
+Am höchsten wurde, wie zu Erwarten der Zuwachs an Fachkompetenz eingeschätzt, denn es wurde viel Fachwissen „gelehrt“. Der Zuwachs an Methoden-, Personal- und Kommunikationskompetenz ist am Vergleich dazu geringer, da hier auch schon individuell mehr an Vorwissen vorhanden ist.
+
+Wie die Ergebnisse zeigen wurde die Lernplattform nicht sehr intensiv genutzt und es ist kein Einfluss sichtbar. Allerdings muss hier angemerkt werden, dass die Form des digitalen Lernens für viele Teilnehmer eine sehr neue Erfahrung war und der selbstverständliche Umgang damit noch nicht gegeben ist. Ein weiterer wichtiger Aspekt ist der Umgang mit Zeit: während die Präsenztage gutgeschrieben werden, erstreckt sich die Nutzung der Lernplattform auf Freizeit. Auch wenn es sich hier in Zahlen nicht ausdrücken lässt, so lassen die Kommentare im freien Textfeld den Schluss zu, dass die Lernplattform einen gleich wie gerichteten, positiven Effekt auf den Nutzer hat: „Ich finde die Lernplattform super! Auch die schnelle Verbindung zu allen Teilnehmern finde ich gut. Sie ist wirklich eine große Hilfe, weil man alles auf einen Blick und sehr übersichtlich hat.“
+
+# Fazit
+
+Die vorliegende Forschungsarbeit hatte das Ziel, eine berufliche Weiterbildungsmaßnahme im Blended Learning Format zu evaluieren. Inhalte der Weiterbildung ist das  Early Excellence-Konzept und seine Umsetzung in der Kindertagesstätten. Da es in der Erwachsenenbildung allgemein, vielmehr um das Erreichen von Handlungskompetenz, als um die bloße Vermehrung von Wissen geht, wurde der Versuch unternommen den Zuwachs an Handlungskompetenz zu messen. Dies wurde entsprechend der Literatur mittels eines Fragebogens zur Selbsteinschätzung umgesetzt. Die Ergebnisse zeigen, dass die Teilnehmer den Effekt auf den Zuwachs an unterschiedlichen Kompetenzen als hoch einschätzen. Die Ergebnisse zeigen allerdings auch, dass die Nutzung der Lernplattform keinen Einfluss auf dieses Zuwachs zu haben scheint. 
+Die Ergebnisse dieser Arbeit sind allerdings erheblichen Einschränkungen unterworfen. Die Datenmenge ist mit n=12 extrem klein und die Ergebnisse sind daher nicht übertragbar oder gar zu verallgemeinern. Um die digitale Nutzung zu Intensivieren ist eventuell mehr Zeit erforderlich, da die Auseinandersetzung mit der Technik nicht von allen so schnell geleistet werden kann. Abhilfe könnte hier eine noch engere Verknüpfung von Präsenzphasen und digitalem Lernen schaffen: Beispielsweise könnte die Lernplattform auch während den Präsenzphasen genutzt werden oder die Präsenzzeiten zugunsten der digitalen Lernzeit verkürzt werden. Denn besonderes in beruflichen Weiterbildungen, wo Zeit ein sehr knappes Gut ist, kann das zeit- und ortsunabhängige Lernen, dass durch digitale Lernplattformen ermöglicht wird, ein großer Zugewinn sein. 
+

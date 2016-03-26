@@ -2,12 +2,12 @@
 \begin{titlepage}
 \thispagestyle{empty}
 \begin{center}
-\Large{Fernuniversität Hagen}\\
+\color{blue}\Large{Fernuniversität Hagen}\\
 \end{center}
 
 
 \begin{center}
-%\Large{Bildung und Medien: eEducation}
+\Large{Bildung und Medien: eEducation}
 \end{center}
 \begin{verbatim}
 
@@ -15,7 +15,7 @@
 
 \end{verbatim}
 \begin{center}
-\textbf{\Large{Evaluation der Lernumgebung: „Umsetzung des Bildungs- Orientierungsplans mit dem Early Excellence-Konzept“}}
+\textbf{\Large{Kommentierte Bibliographie zum Thema Online-Lernen}}
 \end{center}
 \begin{verbatim}
 
@@ -28,6 +28,12 @@
 
 
 
+
+
+
+
+
+
 \end{verbatim}
 
 \begin{flushleft}
@@ -36,13 +42,13 @@
 & & Modul 2: Anwendungsbezogene Bildungsforschung\\
 & & \\
 & & \\
-\textbf{eingereicht von:} & & {Inge Koch-Meinass \\
-& & {Matrikelnr.: 123456 }\\
+\textbf{eingereicht von:} & & {\color{magenta} Inge Koch-Meinass \flq{}ingekoch@mac.com\frq{}}\\
+& & {\color{magenta}Matrikelnr.: 123456 }\\
 & & \\
-\textbf{eingereicht am:} & & 01. April 2016\\
+\textbf{eingereicht am:} & & 06. November 2015\\
 & & \\
 & & \\
-\textbf{Betreuer:} & & Dr. Boris Becker\\ & & Anne Martin \\ & & Burkhard Raue
+%\textbf{Betreuer:} & & Herr Prof. Dr. J. A. Müller
 \end{tabular}
 \end{flushleft}
 

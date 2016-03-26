@@ -247,3 +247,24 @@ begin{tabular}{rrrr}
 \caption{Histogramm Handlungskompetenz}
 \includegraphics[width=0.33\textwidth]{Anhang/HKHistn.png}
 \end{figure}
+Die Summenwerte setzen sich aus den einzelnen Itembatterien zusammen. Die Fachkompetenz und die Personalkompetenz wurde mit je fünf Items abgefragt. Die Summenwerte wurden in die Klassen 0-5,5-10,10-15,15-20 und 20-25 eingeteilt. Die Methodenkompetenz und die Kommunikationskompetenz wurde mit je vier Items abgefragt und die Ergebnisse wurden wie folgt klassifiziert: 0-4,4-8,8-12,12-16,16-20.
+
+\begin{table}[H]
+\centering
+\caption{Gesamtkompetenz und Nutzungsverhalten}
+\begin{tabular}{rr}
+  \hline
+ Parameter & Mittelwerte\\
+  \hline
+Gesamtscore.Kompetenzen & 65.58 \\
+  Mittelwert.Kompetenzen & 3.60 \\
+  Gesamtscore.Nutzungsverhalten & 16.42 \\
+  Mittelwert.Nutzungsverhalten & 2.05 \\
+  Gesamtscore.passive.Nutzung & 10.17 \\
+  Mittelwert.passive.Nutzung & 2.54 \\
+  Gesamtscore.aktive.Nutzung & 6.25 \\
+  Mittelwert.aktive.Nutzung & 1.56 \\
+   \hline
+\end{tabular}
+\end{table}
+\pagebreak
