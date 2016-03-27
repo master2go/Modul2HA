@@ -1,4 +1,4 @@
-\documentclass[12pt, bibliography=totoc]{scrartcl}
+\documentclass[12pt,smallheadings, bibliography=totoc]{scrartcl}
 %\setkomafont{caption}{\small\bfseries\selectfont}
 %\setkomafont{captionlabel}{\small\bfseries}
 \usepackage[headsepline,automark]{scrlayer-scrpage} %Trennlinie an Kopfzeile
@@ -37,6 +37,8 @@
 %\makeatletter \@addtoreset{figure}{section} \makeatother
 %\captionsetup[figure]{skip=1pt}
 \usepackage{tabularx}
+\usepackage{hfoldsty}
+\usepackage[osf,sc]{mathpazo}
 \usepackage{pdfpages}
 \usepackage{array}
 \usepackage{hyperref}
@@ -56,8 +58,8 @@
 \usepackage[colorinlistoftodos,prependcaption,textsize=tiny]{todonotes}
 \newcommandx{\unsure}[2][1=]{\todo[linecolor=red,backgroundcolor=red!25,bordercolor=red,#1]{#2}}
 \newcommandx{\change}[2][1=]{\todo[linecolor=blue,backgroundcolor=blue!25,bordercolor=blue,#1]{#2}}
-\newcommandx{\info}[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=OliveGreen!25,bordercolor=OliveGreen,#1]{#2}}
-\newcommandx{\improvement}[2][1=]{\todo[linecolor=Plum,backgroundcolor=Plum!25,bordercolor=Plum,#1]{#2}}
+\newcommandx{\info}[2][1=]{\todo[linecolor=OliveGreen,backgroundcolor=grenn!25,bordercolor=OliveGreen,#1]{#2}}
+\newcommandx{\improvement}[2][1=]{\todo[linecolor=Plum,backgroundcolor=orange!25,bordercolor=Plum,#1]{#2}}
 \newcommandx{\thiswillnotshow}[2][1=]{\todo[disable,#1]{#2}}
 % erklaerung siehe hier http://tex.stackexchange.com/questions/9796/how-to-add-todo-notes
 
@@ -102,6 +104,11 @@ $body$
 
 \pagebreak
 \printbibliography
+\section{Erklärung}
+\centering
+\makebox[0pt]
+{\includegraphics[scale=0.65]{Anhang/erklaerunghausarbeit.pdf}}
+
 \pagebreak
 \appendix
 
@@ -123,21 +130,29 @@ $body$
   \subsection{Kompetenzzuwachs und Form der Nutzung}
   \label{sec:aktiv}
   \begin{figure}[H]
-\includegraphics[width=0.5\linewidth]{Anhang/spearaktiv.png}
+\includegraphics[width=0.4\linewidth]{Anhang/spearaktiv.png}
 %\caption{Kompetenzzuwachs und aktive Nutzung}
 %\label{fig:saktiv}
 \end{figure}
 %\subsection{Kompetenzzuwachs und passive Nutzung}
 \begin{figure}[H]
-\includegraphics[width=0.5\linewidth]{Anhang/speerpassiv.png}
+\includegraphics[width=0.4\linewidth]{Anhang/speerpassiv.png}
 %\caption{Kompetenzzuwachs und passive Nutzung}
 %\label{fig:spassiv}
 \end{figure}
+%\pagebreak
 \subsection{Fragebogen}
 \label{sec:fragen}
-\includepdf[pages=1-3]{Anhang/Fragebogen.pdf}
 
+%\begin{figure}[H]
+\centering
+\makebox[0pt]
+{\includegraphics[scale=0.5]{Anhang/Fragebogen.pdf}}
+%\end{figure}
+\includepdf[pages=2-3,scale=0.7,pagecommand={\thispagestyle{headings}}]{Anhang/Fragebogen.pdf}
 
+%\section{Erklärung}
+%\includepdf{Anhang/erklaerunghausarbeit.pdf}
 %\input{tabelleanalysen}
 %\includepdf{alleine.pdf}
 \end{document}
