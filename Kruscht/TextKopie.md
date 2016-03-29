@@ -25,6 +25,7 @@ Im folgenden soll der Begriff des Blended Learning und was im Rahmen dieser Arbe
 \textcite[45]{ehlers2011qualitat} merkt kritsch an, dass der Begriff nicht vermischtes Lernen meint, sondern, dass es um eine Mischung von Methoden mit denen gelernt wird, geht. „Blended Learning strebt die Optimierung von Lernprozessen zur Erreichung individueller Lernziele unter der Nutzung aller dafür geeigneter Lehr-Lernmethoden an“ \parencite[46]{ehlers2011qualitat}.
 Blended Learning Konzepte gibt es schon seit vielen Jahren und sie werden sowohl in Schulen und Hochschulen, als auch in beruflichen Weiterbildungsmaßnahmen eingesetzt. Elearning Angebote wurden in Deutschland nur sehr zögerlich angenommen, es überwiegen in weiten Bereichen noch traditionelle Lernformen. Aus dieser Situation heraus bot sich das Blended Learning als Lernform an, da es traditonelle und moderne, digitale Lernformen miteinander verbindet \parencite{Maihack2015}. Für den Einsatz von Blended Learning sprechen nach \textcite{thomas2000evaluating} zahlreiche Gründe:
 
+\improvement{die Aufzählung ist auch nicht so toll}
 
 * Orts- und Zeitunabhängigkeit
 
@@ -39,7 +40,7 @@ Blended Learning Konzepte gibt es schon seit vielen Jahren und sie werden sowohl
 
 
 
-Die Form des hybriden Lernens erlaubt es, Vorteile von digitalem Lernen (selbstorganisiert, zeit- und ortsunabhängig, ) und Vorteile von traditionellem Lernen (sich kennen lernen, Gruppen bilden, Motivation \ldots) zu kombinieren \parencite{Zumbach2010}. Für die Gestaltung eines  eLearning Angebotes  auf der Grundlage einer konstruktivistischen Lerntheorie, ist es notwendig, den Lernenden die Möglichkeit der Eigentätigkeit, Formen des sozialen Austausches, Möglichkeiten zur Bearbeitung komplexer Probleme usw. einzuräumen. Letzlich soll dieses Lernarrangement selbstorganisiertes und reflexives Lernen ermöglichen.
+Die Form des hybriden Lernens erlaubt es, Vorteile von digitalem Lernen (selbstorganisiert, zeit- und ortsunabhängig, ) und Vorteile von traditionellem Lernen (sich kennen lernen, Gruppen bilden, Motivation \ldots) zu kombinieren \parencite{Zumbach2010}. Für die Gestaltung eines  eLearning Angebotes  auf der Grundlage einer konstruktivistischen Lerntheorie, ist es notwendig, den Lernenden die Möglichkeit der Eigentätigkeit, Formen des sozialen Austausches, Möglichkeiten zur Bearbeitung komplexer Probleme usw. einzuräumen. \change{woher ist das? Zitat}Letzlich soll dieses Lernarrangement selbstorganisiertes und reflexives Lernen ermöglichen.
 
 
 Es sei angemerkt, dass es sowohl verschiedene Begriffe, als auch verschiedene Definitionen von Blended Learning gibt. Neben Begriffen wie integrated Learning, flexible Learning usw. wird es im deutschen Sprachraum oft auch als "Hybrid Teaching" benannt \parencite{Oliver2005},\parencite{kerres2001multimediale}. In der vorliegenden Arbeit meint Blended Learning, die sich ergänzende Kombination von verschiedenen Medien, nämlich Präsenzlernen in Form von Wochendseminaren und eLearning in Form einer Moodle-Lernplattform.
@@ -128,7 +129,7 @@ Es wurden 12 Fragebögen ausgefüllt und ausgewertet.
 ## Univariate Auswertung
 
 Die Ergebnisse werden anhand der Summenwerte der einzelnen Kompetenzen beschrieben. Die Summenwerte setzen sich aus der Summe aller Items einer Kategorie zusammen. Die Werte wurden klassifiziert und entsprechend der Likertskala als keinen, geringen, mittleren, hohen und sehr hohen Kompetenzzuwachs bzw. keine bis sehr hohe Nutzung bewertet werden (Anhang  \ref{sec:klasse}).
-Für die einzelnen Kompetenzen, die Gesamtkompetenz und das Nutzungsverhalten werden die Häufigkeitsverteilungen, als Histogramm und in tabellarischer Form mit absoluten und prozentalen Werten dargestellt. Die dargestellten Lage- und Streumaße umfassen die zentrale Tendenz in Form des Mittelwertes, des Medians und des Modus\footnote{Kommen mehrere Modalwerte vor, werden sie durch Kommata voneinander getrennt dargestellt} sowie die Streuung als Standardabweichung und Varianz. 
+Für die einzelnen Kompetenzen, die Geasmatkompetenz und das Nutzungsverhalten werden die Häufigkeitsverteilungen, als Histogramm und in tabellarischer Form\footnote{der jeweils unterste Wert der Klasse ist nicht enthalten} mit absoluten und prozentalen Werten dargestellt. Die dargestellten Lage- und Streumaße umfassen die zentrale Tendenz in Form des Mittelwertes, des Medians und des Modus\footnote{Kommen mehrere Modalwerte vor, werden sie durch Kommata voneinander getrennt dargestellt} sowie die Streuung als Standardabweichung und Varianz. 
  
 ### Fachkompetenz
 
@@ -141,14 +142,13 @@ Für die einzelnen Kompetenzen, die Gesamtkompetenz und das Nutzungsverhalten we
 
 \end{minipage}
 \begin{minipage}{.4\linewidth}
-\footnote{Intervallgrenzen: ( = Wert ist nicht enthalten, [ = Wert ist enthalten}
 \centering
 \raisebox{\depth}
 {\begin{tabular}{rrrr}
   \hline
  & absolut & Prozent & kumuliert \\
   \hline
-[5] & 0.00 & 0.00 & 0.00 \\
+(0,5] & 0.00 & 0.00 & 0.00 \\
   (5,10] & 0.00 & 0.00 & 0.00 \\
   (10,15] & 1.00 & 8.33 & 8.33 \\
   (15,20] & 2.00 & 16.67 & 25.00 \\
@@ -169,7 +169,7 @@ Die Lagemaße  der Fachkompetenz (Tabelle \ref{tab:lFK}) ergeben einen Mittelwer
 
 \begin{table}[H]
 \centering
-\caption{Lage- und Streumaße: Fachkompetenz}
+\caption{Lage- und Streumaße Fachkompetenz}
 \label{tab:lFK}
 \begin{tabular}{rrrrrrrr}
   \hline
@@ -198,7 +198,7 @@ Auch bei der Methodenkompetenz, siehe Abbildung \ref{fig:MK}, wird mindestens ei
   \hline
  & absolut & Prozent & kumuliert \\ 
   \hline
-[4] & 0.00 & 0.00 & 0.00 \\ 
+(0,4] & 0.00 & 0.00 & 0.00 \\ 
   (4,8] & 0.00 & 0.00 & 0.00 \\ 
   (8,12] & 6.00 & 50.00 & 50.00 \\ 
   (12,16] & 5.00 & 41.67 & 91.67 \\ 
@@ -223,7 +223,7 @@ Wie Tabelle \ref{tab:lMK} zeigt kam der Wert 10 am häufigsten vor. Mittelwert u
 
 \begin{table}[H]
 \centering
-\caption{Lage- und Streumaße: Methodenkompetenz}
+\caption{Lage- und Streumaße Methodenkompetenz}
 \label{tab:lMK}
 \begin{tabular}{rrrrrrrr}
   \hline
@@ -254,7 +254,7 @@ Der Zuwachs an Personalkompetenz, siehe Abbildung \ref{fig:PK} wurde von etwa zw
   \hline
  & absolut & Prozent & kumuliert \\
   \hline
-[5] & 0.00 & 0.00 & 0.00 \\
+(0,5] & 0.00 & 0.00 & 0.00 \\
   (5,10] & 0.00 & 0.00 & 0.00 \\
   (10,15] & 1.00 & 8.33 & 8.33 \\
   (15,20] & 8.00 & 66.67 & 75.00 \\
@@ -306,7 +306,7 @@ Der Zuwachs der Kommunikationskompetenz wird von einem Teilnehmer als gering ein
   \hline
  & absolut & Prozent & kumuliert \\
   \hline
-[4] & 0.00 & 0.00 & 0.00 \\
+(0,4] & 0.00 & 0.00 & 0.00 \\
   (4,8] & 1.00 & 8.33 & 8.33 \\
   (8,12] & 5.00 & 41.67 & 50.00 \\
   (12,16] & 4.00 & 33.33 & 83.33 \\
@@ -360,7 +360,7 @@ Für die Darstellung der Handlungskompetenzen werden die Werte der einzelnen Kom
   \hline
  & absolut & Prozent & kumuliert \\ 
   \hline
-[18] & 0.00 & 0.00 & 0.00 \\ 
+(0,18] & 0.00 & 0.00 & 0.00 \\ 
   (18,36] & 0.00 & 0.00 & 0.00 \\ 
   (36,54] & 1.00 & 8.33 & 8.33 \\ 
   (54,72] & 8.00 & 66.67 & 75.00 \\ 
@@ -381,7 +381,7 @@ Der Mittelwert des Zuwachses an Handlungskompetenz beträgt etwa 65, ebenso wie 
 
 \begin{table}[H]
 \centering
-\caption{Lage- und Streumaße: Handlungskompetenz}
+\caption{Lage- und Streumaße der Handlungskompetenz}
 \label{lHK}
 \begin{tabular}{rrrrrrrr}
   \hline
@@ -414,7 +414,7 @@ Beim Nutzungsverhalten wird sowohl die Intensität, als auch die Art der Nutzung
   \hline
  & absolut & Prozent & kumuliert \\ 
   \hline
-[8] & 0.00 & 0.00 & 0.00 \\ 
+(0,8] & 0.00 & 0.00 & 0.00 \\ 
   (8,16] & 5.00 & 41.67 & 41.67 \\ 
   (16,24] & 7.00 & 58.33 & 100.00 \\ 
   (24,32] & 0.00 & 0.00 & 100.00 \\ 
@@ -484,4 +484,4 @@ Wie die Ergebnisse zeigen, wurde die Lernplattform nicht sehr intensiv genutzt u
 
 Die vorliegende Forschungsarbeit hat das Ziel, eine berufliche Weiterbildungsmaßnahme im Blended Learning Format zu evaluieren. Inhalt der Weiterbildung ist das  Early Excellence-Konzept und seine Umsetzung in der Kindertagesstätte. Da es in der Erwachsenenbildung allgemein vielmehr um das Erreichen von Handlungskompetenz als um die bloße Vermehrung von Wissen geht, wurde der Versuch unternommen, den Zuwachs an Handlungskompetenz zu messen. Dies wurde, entsprechend der Literatur, mittels eines Fragebogens zur Selbsteinschätzung umgesetzt. Die Ergebnisse zeigen, dass die Teilnehmer den Effekt auf den Zuwachs an unterschiedlichen Kompetenzen als hoch einschätzen. Die Ergebnisse zeigen allerdings auch, dass die Nutzung der Lernplattform keinen Einfluss auf dieses Zuwachs zu haben scheint. 
 Die Ergebnisse dieser Arbeit sind allerdings erheblichen Einschränkungen unterworfen. Die Datenmenge ist mit n=12 extrem klein und die Ergebnisse sind daher nicht übertragbar oder gar zu verallgemeinern. Um die digitale Nutzung zu intensivieren ist eventuell mehr Zeit erforderlich, da die Auseinandersetzung mit der Technik nicht von allen so schnell geleistet werden kann. Abhilfe könnte hier eine noch engere Verknüpfung von Präsenzphasen und digitalem Lernen schaffen: Beispielsweise könnte die Lernplattform auch während den Präsenzphasen genutzt werden oder die Präsenzzeiten zugunsten der digitalen Lernzeit verkürzt werden. Denn besonderes in beruflichen Weiterbildungen, wo Zeit ein sehr knappes Gut ist, kann das zeit- und ortsunabhängige Lernen, dass durch digitale Lernplattformen ermöglicht wird, ein großer Zugewinn sein. 
-
+\change{Literaturverzeichnis!}

@@ -130,13 +130,13 @@ $body$
   \subsection{Kompetenzzuwachs und Form der Nutzung}
   \label{sec:aktiv}
   \begin{figure}[H]
-\includegraphics[width=0.4\linewidth]{Anhang/spearaktiv.png}
+\includegraphics[width=0.4\linewidth]{Anhang/spearaneu.png}
 %\caption{Kompetenzzuwachs und aktive Nutzung}
 %\label{fig:saktiv}
 \end{figure}
 %\subsection{Kompetenzzuwachs und passive Nutzung}
 \begin{figure}[H]
-\includegraphics[width=0.4\linewidth]{Anhang/speerpassiv.png}
+\includegraphics[width=0.4\linewidth]{Anhang/spearpneu.png}
 %\caption{Kompetenzzuwachs und passive Nutzung}
 %\label{fig:spassiv}
 \end{figure}
